@@ -9,7 +9,7 @@ using HarmonyBusinessLayer;
 
 namespace HarmonyService.Controllers
 {
-    public class CMSDataController : ApiController
+    public class CMDataController : ApiController
     {
         // GET api/<controller>
         CmsDataservice objService = new CmsDataservice();
