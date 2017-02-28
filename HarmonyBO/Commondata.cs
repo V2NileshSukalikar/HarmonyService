@@ -13,10 +13,14 @@ namespace HarmonyBO
         public List<MenuData> MenuListData { get; set; }
 
         public FooterData Footerdata { get; set; }
-        
+
         public Commondata()
         {
-            MenuListData = new List<MenuData>() { new MenuData { MenuName = "menu1", MenuUrl = "//menu1" } };
+            MenuListData = new List<MenuData>() { 
+                                                                        new MenuData { MenuName = "menu1", MenuUrl = "//menu1" },
+                                                                        new MenuData { MenuName = "menu2", MenuUrl = "//menu2" },
+                                                                        new MenuData { MenuName = "menu3", MenuUrl = "//menu3" }
+                                                                        };
             HeaderData = new HeaderData() { CompanyName = "Demo Company", Companylogo = "~\\Images\\V2-Solutions.jpg" };
             Footerdata = new FooterData() { copyrighttext = "This is copyright text" };
         }
