@@ -15,9 +15,9 @@ namespace HarmonyBO
         public footerdata Footerdata { get; set; }
     public    Commondata()
         {
-            MenuListData = new List<menudata>() { new menudata { MenuName = "menu1", MenuUr = "//menu1" } };
+            MenuListData = new List<menudata>() { new menudata { MenuName = "menu1", MenuUrl = "//menu1" } };
             HeaderData = new headerdata() { CompanyName = "Demo Company", Companylogo = "~\\Images\\V2-Solutions.jpg" };
-            Footerdata = new footerdata() { copyrighttext = "This is copy right text" };
+            Footerdata = new footerdata() { copyrighttext = "This is copyright text" };
         }
 
     }
@@ -33,8 +33,8 @@ namespace HarmonyBO
     {
         public string MenuName { get; set; }
 
-        public string MenuUr { get; set; }
-
+        public string MenuUrl { get; set; }
+            
 
 
     }
