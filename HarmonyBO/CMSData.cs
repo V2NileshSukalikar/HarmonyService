@@ -8,16 +8,21 @@ namespace HarmonyBO
 {
     public class cmsData
     {
-        public Commondata HeaderData { get; set; }
+        public Commondata GlobalData { get; set; }
 
         public pageSpecificData pagespecificData { get; set; }
 
-      public  cmsData()
+      public  cmsData(bool isheader )
         {
-            HeaderData = new Commondata();
+            if (isheader==true)
+            {
+                GlobalData = new Commondata();
+            }
 
             pagespecificData = new pageSpecificData();
         }
+
+        
 
     }
 

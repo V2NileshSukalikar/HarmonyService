@@ -12,14 +12,17 @@ namespace HarmonyBO
 
         public List<contentData> contetntData { get; set; }
 
-       public pageSpecificData()
+        public bool isCacheble { get; set; }
+
+        public pageSpecificData()
         {
             orientation = new List<int> { 2, 1, 3, 3 };
             contetntData = new List<contentData> { new contentData { type = "Html", data = "<h1>This is dummy data 1</h1>" },
                 new contentData { type = "Html", data = "<h1>This is dummy data 2</h1>" }
             };
+            isCacheble = true;
 
-    }
+       }
 
     }
 
@@ -28,5 +31,7 @@ namespace HarmonyBO
         public string type { get; set; }
 
         public string data { get; set; }
+
+        
     }
 }
