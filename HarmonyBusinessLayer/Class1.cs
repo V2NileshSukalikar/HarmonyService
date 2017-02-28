@@ -9,10 +9,14 @@ namespace HarmonyBusinessLayer
 {
     public class CmsDataservice
     {
-        public cmsData getCmsData()
+        public cmsData getCmsData(bool isheader )
         {
-            return new cmsData();
+            return new cmsData(isheader);
         }
-         
+
+        
+
+
+
     }
 }

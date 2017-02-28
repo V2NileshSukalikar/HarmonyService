@@ -12,19 +12,15 @@ namespace HarmonyService.Controllers
     public class cmsdataController : ApiController
     {
         // GET api/<controller>
-        public HttpResponseMessage GetcmsData()
+        CmsDataservice objService = new CmsDataservice();
+        public HttpResponseMessage GetcmsData(bool isheader)
         {
-            CmsDataservice  objService= new CmsDataservice();
-            var data =objService.getCmsData();
+           
+            var data =objService.getCmsData(isheader);
             return Request.CreateResponse(HttpStatusCode.OK, data );
         }
 
-        // GET api/<controller>/5
-        public string Get(int id)
-        {
-            return "value";
-        }
-
+     
         // POST api/<controller>
         public void Post([FromBody]string value)
         {
