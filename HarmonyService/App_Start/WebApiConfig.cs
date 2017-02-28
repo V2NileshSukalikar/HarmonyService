@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
+using System.Web.Http.Cors;
 
 namespace HarmonyService
 {
@@ -22,9 +23,12 @@ namespace HarmonyService
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "api/{controller}/{action}/{isheader}",
-                defaults: new {  }
+                routeTemplate: "api/{controller}/{action}/{pagename}/{isheader}"
+                //defaults: new { isheader = false }
             );
+
+            var corsAttr = new EnableCorsAttribute("*", "*", "*");
+            config.EnableCors(corsAttr);
         }
     }
 }
