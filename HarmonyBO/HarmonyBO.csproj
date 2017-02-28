@@ -41,7 +41,8 @@
   <ItemGroup>
     <Compile Include="CMSData.cs" />
     <Compile Include="Commondata.cs" />
-    <Compile Include="pageSpecificData.cs" />
+    <Compile Include="HeaderData.cs" />
+    <Compile Include="PageSpecificData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
