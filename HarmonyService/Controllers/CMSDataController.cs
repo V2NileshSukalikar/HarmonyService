@@ -13,10 +13,12 @@ namespace HarmonyService.Controllers
     {
         // GET api/<controller>
         CmsDataservice objService = new CmsDataservice();
-        public HttpResponseMessage GetcmsData(bool isheader)
+
+        //[Route("GetcmsData/{pagename}/{isheader}")]
+        public HttpResponseMessage GetcmsData(string pagename,bool isheader)
         {
            
-            var data =objService.getCmsData(isheader);
+            var data =objService.getCmsData(pagename ,isheader);
             return Request.CreateResponse(HttpStatusCode.OK, data );
         }
 
