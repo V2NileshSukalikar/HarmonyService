@@ -39,11 +39,11 @@ namespace HarmonyBusinessLayer
                 {
                     
                    
-                    pagedata.GlobalData.HeaderData.Companylogo = "~\\Images\\V2-Solutions.jpg";
+                    pagedata.GlobalData.HeaderData.Companylogo = "http://harmonyservice/Images/V2-Solutions.jpg";
                     pagedata.GlobalData.HeaderData.CompanyName = "Company-" + i;
 
                     for(int j=1; j<=5;j++)
-                    pagedata.GlobalData.MenuListData.Add(new MenuData { MenuName = "Page" + j, MenuUrl = "//Page" + j });
+                    pagedata.GlobalData.MenuListData.Add(new MenuData { MenuName = "Page" + j, MenuUrl = "/page/Page" + j });
 
                     pagedata.GlobalData.Footerdata.copyrighttext = "This is copyright Footer";
                 }
@@ -54,7 +54,9 @@ namespace HarmonyBusinessLayer
             
 
                 pagedata.pagespecificData.orientation = new List<int> { (1 + i), (3 + i), (1 + i), 2 };
-                pagedata.pagespecificData.contetntData = new List<ContentData> { new ContentData { type = "Html", data = "<h1>This is dummy data of page " + i + "</h1>" } };
+
+                for(var z=1;z<= ((i*4)  +7);z++)
+                pagedata.pagespecificData.contetntData.Add( new ContentData { type = "Html", data = "<h1>This is dummy data of section " + z + "</h1>" } );
 
                 pagedata.pagespecificData.isCacheble = !iscashe;
                 iscashe = !iscashe;
