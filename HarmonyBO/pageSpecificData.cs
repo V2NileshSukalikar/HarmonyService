@@ -16,12 +16,13 @@ namespace HarmonyBO
 
         public PageSpecificData()
         {
-            orientation = new List<int> { 2, 1, 3, 3 };
-            contetntData = new List<ContentData> { new ContentData { type = "Html", data = "<h1>This is dummy data 1</h1>" },
-                new ContentData { type = "Html", data = "<h1>This is dummy data 2</h1>" }
-            };
-            isCacheble = true;
-
+            //orientation = new List<int> { 2, 1, 3, 3 };
+            //contetntData = new List<ContentData> { new ContentData { type = "Html", data = "<h1>This is dummy data 1</h1>" },
+            //    new ContentData { type = "Html", data = "<h1>This is dummy data 2</h1>" }
+            //};
+            //isCacheble = true;
+            orientation = new List<int>();
+            contetntData = new List<ContentData>();
        }
 
     }
