@@ -22,10 +22,20 @@ namespace HarmonyService
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
+               name: "JsonAPI",
+               routeTemplate: "api/{controller}/{action}/{pagename}/{isheader}"
+                //defaults: new { isheader = false }
+           );
+
+            config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "api/{controller}/{action}/{pagename}/{isheader}"
+                routeTemplate: "api/{controller}/{action}"
                 //defaults: new { isheader = false }
             );
+
+           
+
+
 
             var corsAttr = new EnableCorsAttribute("*", "*", "*");
             config.EnableCors(corsAttr);
