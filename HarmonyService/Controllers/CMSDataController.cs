@@ -6,6 +6,9 @@ using System.Net.Http;
 using System.Web.Http;
 
 using HarmonyBusinessLayer;
+using System.Text;
+using System.IO;
+using System.Net.Http.Headers;
 
 namespace HarmonyService.Controllers
 {
@@ -15,14 +18,25 @@ namespace HarmonyService.Controllers
         CmsDataservice objService = new CmsDataservice();
 
         //[Route("GetcmsData/{pagename}/{isheader}")]
-        public HttpResponseMessage GetcmsData(string pagename,bool isheader)
+        public HttpResponseMessage GetcmsData(string pagename, bool isheader)
         {
-           
-            var data =objService.getCmsData(pagename ,isheader);
-            return Request.CreateResponse(HttpStatusCode.OK, data );
+            var data = objService.getCmsData(pagename, isheader);
+            return Request.CreateResponse(HttpStatusCode.OK, data);
         }
 
-     
+        public HttpResponseMessage GetCMSJsonData()
+        {
+            var file = System.Web.HttpContext.Current.Server.MapPath("~/Data/data.json");
+
+            var stream = new FileStream(file, FileMode.Open);
+
+            var result = Request.CreateResponse(HttpStatusCode.OK);
+            result.Content = new StreamContent(stream);
+            result.Content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+
+            return result;
+        }
+
         // POST api/<controller>
         public void Post([FromBody]string value)
         {

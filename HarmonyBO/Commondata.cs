@@ -44,7 +44,7 @@ namespace HarmonyBO
 
         public string MenuUrl { get; set; }
 
-       
+
 
 
     }
@@ -56,7 +56,7 @@ namespace HarmonyBO
         public FooterData()
         {
             copyrighttext = "";
-         
+
         }
     }
 }
