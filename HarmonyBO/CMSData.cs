@@ -16,9 +16,9 @@ namespace HarmonyBO
 
         public CMSData()
         {
-           
-                GlobalData = new Commondata();
-            
+
+            GlobalData = new Commondata();
+
 
             pagespecificData = new PageSpecificData();
         }
