@@ -1,0 +1,186 @@
+﻿{
+  "g": [
+    {
+      "Oid": 2079,
+      "Name": "V2 Solutions Pvt. Ltd.",
+      "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+      "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
+      "Title": "V2 Solutions Pvt. Ltd.",
+      "IsActive": true,
+      "Menu": [
+        {
+          "Name": "Home",
+          "Value": "67"
+        },
+        {
+          "Name": "About  Us",
+          "Value": "68"
+
+        }
+      ]
+    }
+  ],
+  "f": [
+    {
+      "Oid": 65,
+      "Site": 2079,
+      "Name": "Home",
+      "URL": "Home",
+      "Logo": "9g==",
+      "Title": "Home",
+      "IsActive": true,
+      "IsDefault": true,
+      "IsAuth": true,
+      "IsMenu": true
+    }
+  ],
+  "s": {
+    "Orientation": "1,1,1,1,1,3",
+    "Data": [
+      {
+        "Type": "COC",
+        "Orientation": 3,
+        "Data": [
+          {
+            "Name": "ViewName",
+            "Id": 99,
+            "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
+            "Title": "Page 99"
+          },
+          {
+            "Name": "ViewName",
+            "Id": 67,
+            "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
+            "Title": "Page 67"
+          },
+          {
+            "Name": "ViewName",
+            "Id": 88,
+            "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
+            "Title": "Page 88"
+          }
+        ],
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
+        "IsActive ": true,
+        "Sequence": null
+      },
+      {
+        "Type": "Search",
+        "Oid": 1035,
+        "Search": 1,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
+        "IsActive": true,
+        " Sequence ": null
+      },
+
+
+      {
+        "Type": "Search",
+         "Search": 2,
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": " This is our default template. </br> Welcome  to our site.Smile",
+        "IsActive": true,
+        "Sequence": null
+      },
+      {
+         "Type": "Search",
+         "Search": 3,
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
+        "IsActive ": true,
+        "Sequence": null
+      },
+      {
+        "Type": "Static",
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": " This is our default template. </br> Welcome  to our site.Smile",
+        "IsActive": true,
+        "Sequence": null
+      },
+      {
+        "Type": "Static",
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
+        "IsActive": true,
+        " Sequence ": null
+      },
+      {
+        "Type": "Static",
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
+        "IsActive ": true,
+        "Sequence": null
+      },
+      {
+        "Type": "Static",
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
+        "IsActive": true,
+        " Sequence ": null
+      },
+      {
+        "Type": "Static",
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
+        "IsActive ": true,
+        "Sequence": null
+      },
+      {
+        "Type": "Static",
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
+        "IsActive": true,
+        " Sequence ": null
+      },
+      {
+        "Type": "Static",
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
+        "IsActive ": true,
+        "Sequence": null
+      },
+      {
+        "Type": "Static",
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
+        "IsActive": true,
+        " Sequence ": null
+      },
+      {
+        "Type": "Static",
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
+        "IsActive ": true,
+        "Sequence": null
+      }
+
+    ]
+  }
+}
