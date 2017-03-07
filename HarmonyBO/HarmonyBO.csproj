@@ -41,9 +41,17 @@
   <ItemGroup>
     <Compile Include="CMSData.cs" />
     <Compile Include="Commondata.cs" />
+    <Compile Include="FilterBO.cs" />
+    <Compile Include="FrequentDataBO.cs" />
+    <Compile Include="GlobalDataBO.cs" />
     <Compile Include="HeaderData.cs" />
     <Compile Include="PageSpecificData.cs" />
+    <Compile Include="PageSpecificDataBO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchContentBO.cs" />
+    <Compile Include="SearchDataBO.cs" />
+    <Compile Include="SiteDataBO.cs" />
+    <Compile Include="SpecificDataBO.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -9,6 +9,8 @@ using HarmonyBusinessLayer;
 using System.Text;
 using System.IO;
 using System.Net.Http.Headers;
+using System.Web.Script.Serialization;
+using HarmonyBO;
 
 namespace HarmonyService.Controllers
 {
@@ -17,24 +19,43 @@ namespace HarmonyService.Controllers
         // GET api/<controller>
         CmsDataservice objService = new CmsDataservice();
 
-        //[Route("GetcmsData/{pagename}/{isheader}")]
         public HttpResponseMessage GetcmsData(string pagename, bool isheader)
         {
             var data = objService.getCmsData(pagename, isheader);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
 
-        public HttpResponseMessage GetCMSJsonData()
+        public HttpResponseMessage GetCMSJsonData(string pagename, bool isheader)
         {
-            var file = System.Web.HttpContext.Current.Server.MapPath("~/Data/data.json");
+            int pageID = 1;
+            if (int.TryParse(pagename, out pageID))
+            {
 
-            var stream = new FileStream(file, FileMode.Open);
+            }
+            //get the Json filepath  
+            string fileName = pageID == 2079 ? "~/Data/page1.json" : pageID == 2080 ? "~/Data/page2.json" : "~/Data/page3.json";
 
-            var result = Request.CreateResponse(HttpStatusCode.OK);
-            result.Content = new StreamContent(stream);
-            result.Content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+            string file = System.Web.HttpContext.Current.Server.MapPath(fileName);
+            //deserialize JSON from file  
+            string Json = System.IO.File.ReadAllText(file);
+            JavaScriptSerializer ser = new JavaScriptSerializer();
+            var siteData = ser.Deserialize<SiteDataBO>(Json);
+            return Request.CreateResponse(HttpStatusCode.OK, siteData);
+        }
 
-            return result;
+        public HttpResponseMessage GetFilteredRecords(string searchText)
+        {
+            //get the Json filepath  
+            string file = System.Web.HttpContext.Current.Server.MapPath("~/Data/searchdata.json");
+            //deserialize JSON from file  
+            string Json = System.IO.File.ReadAllText(file);
+            JavaScriptSerializer ser = new JavaScriptSerializer();
+            var searchData = ser.Deserialize<SearchDataBO>(Json);
+            if (searchData.data != null)
+            {
+                searchData.data = searchData.data.Where(c => c.ProviderName.Contains(searchText)).ToList();
+            }
+            return Request.CreateResponse(HttpStatusCode.OK, searchData);
         }
 
         // POST api/<controller>
@@ -51,5 +72,8 @@ namespace HarmonyService.Controllers
         public void Delete(int id)
         {
         }
+
+
+
     }
 }

@@ -6,6 +6,7 @@ using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
 using System.Web.Http.Cors;
+using System.Net.Http.Headers;
 
 namespace HarmonyService
 {
@@ -28,13 +29,20 @@ namespace HarmonyService
            );
 
             config.Routes.MapHttpRoute(
+               name: "searchAPI",
+               routeTemplate: "api/{controller}/{action}/{searchText}"
+                //defaults: new { isheader = false }
+           );
+
+            config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{action}"
                 //defaults: new { isheader = false }
             );
 
-           
 
+            config.Formatters.JsonFormatter.SupportedMediaTypes
+    .Add(new MediaTypeHeaderValue("text/html"));
 
 
             var corsAttr = new EnableCorsAttribute("*", "*", "*");
