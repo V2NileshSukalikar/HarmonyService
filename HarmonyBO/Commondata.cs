@@ -13,7 +13,7 @@ namespace HarmonyBO
         public List<MenuData> MenuListData { get; set; }
 
         public FooterData Footerdata { get; set; }
-        
+
         public Commondata()
         {
             MenuListData = new List<MenuData>();
@@ -44,7 +44,7 @@ namespace HarmonyBO
 
         public string MenuUrl { get; set; }
 
-       
+
 
 
     }
@@ -56,7 +56,7 @@ namespace HarmonyBO
         public FooterData()
         {
             copyrighttext = "";
-         
+
         }
     }
 }

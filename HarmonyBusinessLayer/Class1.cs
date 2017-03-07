@@ -37,9 +37,9 @@ namespace HarmonyBusinessLayer
                 pagedata.PageName = "Page" + i;
                 if (isheader == true)
                 {
-                    
-                   
-                    pagedata.GlobalData.HeaderData.Companylogo = "http://harmonyservice/Images/V2-Solutions.jpg";
+
+
+                    pagedata.GlobalData.HeaderData.Companylogo = "http://localhost:53142/Images/V2-Solutions.jpg";
                     pagedata.GlobalData.HeaderData.CompanyName = "Company-" + i;
 
                     for(int j=1; j<=5;j++)
