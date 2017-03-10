@@ -1,141 +1,98 @@
 ﻿{
-  "g": 
-    {
-      "Oid": 2080,
-      "Name": "V3 Solutions tech Pvt. Ltd.",
-      "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
-      "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-      "Title": "V3 Solutions tech Pvt. Ltd..",
-      "IsActive": true,
-      "Menu": [
-        {
-          "Name": "Home",
-          "Value": "2079"
-        },
-        {
-            "Name": "About  Us",
-            "Value": "2080"
-
-        },
-        {
-          "Name": "Page3",
-          "Value": "2081"
-        }
-      ]
-    }
-  ,
-  "f": [
-    {
-      "Oid": 65,
-      "Site": 2079,
-      "Name": "Home",
-      "URL": "Home",
-      "Logo": "9g==",
-      "Title": "Home",
-      "IsActive": true,
-      "IsDefault": true,
-      "IsAuth": true,
-      "IsMenu": true
-    }
-  ],
-  "s": {
-    "Orientation": "3,3,2",
-    "isCacheble": true,
-    "Data": [
-        {
-            "Type": "COC",
-            "Orientation": 3,
-            "Data": [
-                {
-                    "Name": "page1",
-                    "Id": 2079,
-                    "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-                    "Title": "Home"
-                },
-                {
-                    "Name": "ViewName",
-                    "Id": 2081,
-                    "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-                    "Title": "Page 67"
-                },
-                {
-                    "Name": "ViewName",
-                    "Id": 2082,
-                    "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-                    "Title": "Page 88"
-                }
-            ],
-            "Oid": 1035,
-            "Views": 65,
-            "Name": "Welcome",
-            "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
-            "IsActive ": true,
-            "Sequence": null
-        },
-
-        {
-            "Type": "Search",
-            "Oid": 1035,
-            "Search": 1,
-            "Views": 65,
-            "Name": "Welcome",
-            "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
-            "IsActive": true,
-            " Sequence ": null
-        },
-
-        {
-            "Type": "Static",
-            "Oid": 1035,
-            "Search": 1,
-            "Views": 65,
-            "Name": "Welcome",
-            "Descr": "<h2>TI am here on page 2.</h2> </br> Welcome  to our  site.Smile",
-            "IsActive": true,
-            " Sequence ": null
-        },
-        {
-            "Type": "Search",
-            "Oid": 1035,
-            "Search": 1,
-            "Views": 65,
-            "Name": "Welcome",
-            "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
-            "IsActive": true,
-            " Sequence ": null
-        },
-
-        {
-            "Type": "Static",
-            "Oid": 1035,
-            "Search": 1,
-            "Views": 65,
-            "Name": "Welcome",
-            "Descr": "<h2>TI am here on page 2.</h2> </br> Welcome  to our  site.Smile",
-            "IsActive": true,
-            " Sequence ": null
-        },
-        {
-            "Type": "Search",
-            "Oid": 1035,
-            "Search": 2,
-            "Views": 65,
-            "Name": "Welcome",
-            "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
-            "IsActive": true,
-            " Sequence ": null
-        },
-
-        {
-        "Type": "Search",
-        "Oid": 1035,
-        "Search": 3,
-        "Views": 65,
-        "Name": "Welcome",
-        "Descr": "<h2>TI am here on page 2.</h2> </br> Welcome  to our  site.Smile",
+    "g": {
+        "Oid": 2080,
+        "Name": "V3 Solutions tech Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
+        "Title": "V3 Solutions tech Pvt. Ltd..",
         "IsActive": true,
-        " Sequence ": null
-      }
-    ]
-  }
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ "100" ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "COC",
+                "Orientation": 2,
+                "Data": [
+                    {
+                        "Name": "page1",
+                        "Id": 2079,
+                        "Logo": "http://localhost:53142/Images/10.png",
+                        "Title": "What\'s New"
+                    },
+                    {
+                        "Name": "ViewName",
+                        "Id": 2081,
+                        "Logo": "http://localhost:53142/Images/11.png",
+                        "Title": "Adult Abuse, Neglect & Exploitation: Finding Help"
+                    },
+                    {
+                        "Name": "ViewName",
+                        "Id": 2082,
+                        "Logo": "http://localhost:53142/Images/13.png",
+                        "Title": "Alzheimer's Disease & Other Dementias"
+                    },
+                    {
+                        "Name": "ViewName",
+                        "Id": 2082,
+                        "Logo": "http://localhost:53142/Images/1.png",
+                        "Title": "Behavioral Health & Substance Abuse"
+                    },
+                    {
+                        "Name": "ViewName",
+                        "Id": 2082,
+                        "Logo": "http://localhost:53142/Images/2.png",
+                        "Title": "Emergency Preparedness & Response"
+                    },
+                    {
+                        "Name": "ViewName",
+                        "Id": 2082,
+                        "Logo": "http://localhost:53142/Images/3.png",
+                        "Title": "Everyday Needs: Food, Housing & Transportation"
+                    },
+                     {
+                        "Name": "ViewName",
+                        "Id": 2082,
+                        "Logo": "http://localhost:53142/Images/4.png",
+                        "Title": "Financial Matters & Employment Info"
+                    }
+                ]
+            }
+        ]
+    }
 }
