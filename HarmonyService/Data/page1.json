@@ -15,6 +15,7 @@
                 "Name": "About  Us",
                 "Value": "2080"
 
+
             },
             {
                 "Name": "Page3",
@@ -37,153 +38,176 @@
         }
     ],
     "s": {
-        "Orientation": "1,1,1,1,1,3",
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ "80", "20" ]
+            },
+            {
+                "Type": "Number",
+                "Order": [ "1" ]
+            },
+            {
+                "Type": "Percentage",
+                "Order": [ "100" ]
+            },
+            {
+                "Type": "Percentage",
+                "Order": [ "100" ]
+            }
+
+        ],
         "isCacheble": true,
         "Data": [
-
-            
-
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": 'ADRN--Aging
+                and Disability
+                Resource Network--The
+                Area Agency
+                has been
+                designated by
+                the Ohio
+                Department of
+                Aging (ODA)
+                as the
+                lead agency
+                in our
+                9 county
+                area to
+                develop an
+                ADRN. An
+                ADRN is
+                a group
+                of partners
+                who are
+                either referral
+                sources or
+                resources for
+                older or
+                disabled adults
+                and their
+                Care givers.
+                The primary
+                role of
+                the ADRN
+                is to
+                streamline access
+                to long-term
+                care services
+                by making
+                the consumer
+                experience as
+                seamless as
+                possible. At
+                this point
+                the Area
+                Agency on
+                Aging is
+                in \'phase
+                one\' in
+                developing the
+                ADRN which
+                involves recruiting
+                partners and
+                obtaining Memorandums
+                of Understanding
+                with each
+                partner Agency',
+                "IsActive": true,
+                "Sequence": null
+            },
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": 'ADRN--Aging
+                and Disability
+                Resource Network--The
+                Area Agency
+                has been
+                designated by
+                the Ohio
+                Department of
+                Aging (ODA)
+                as the
+                lead agency
+                in our
+                9 county
+                area to
+                develop an
+                ADRN. An
+                ADRN is
+                a group
+                of partners
+                who are
+                either referral
+                sources or
+                resources for
+                older or
+                disabled adults
+                and their
+                Care givers.
+                The primary
+                role of
+                the ADRN
+                is to
+                streamline access
+                to long-term
+                care services
+                by making
+                the consumer
+                experience as
+                seamless as
+                possible. At
+                this point
+                the Area
+                Agency on
+                Aging is
+                in \'phase
+                one\' in
+                developing the
+                ADRN which
+                involves recruiting
+                partners and
+                obtaining Memorandums
+                of Understanding
+                with each
+                partner Agency',
+                "IsActive": true,
+                "Sequence": null
+            },
             {
                 "Type": "Search",
                 "Oid": 1035,
                 "Search": 1,
                 "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
+                "Name": "Alphabetical Listing",
+                "Descr": "Quickly find a service provider alphabetically by clicking on the first letter of the service provider's name.",
                 "IsActive": true,
                 " Sequence ": null
             },
-
-
             {
                 "Type": "Search",
                 "Search": 2,
                 "Oid": 1035,
                 "Views": 65,
-                "Name": "Welcome",
-                "Descr": " This is our default template. </br> Welcome  to our site.Smile",
+                "Name": "Search by Keyword",
+                "Descr": "Quickly find a service provider by entering key words (such as name, service or ZIP Code) and then press \"Search",
                 "IsActive": true,
                 "Sequence": null
             },
-
             {
                 "Type": "Search",
                 "Search": 3,
                 "Oid": 1035,
                 "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
-                "IsActive ": true,
-                "Sequence": null
-            },
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": " This is our default template. </br> Welcome  to our site.Smile",
-                "IsActive": true,
-                "Sequence": null
-            },
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
-                "IsActive": true,
-                " Sequence ": null
-            },
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
-                "IsActive ": true,
-                "Sequence": null
-            },
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
-                "IsActive": true,
-                " Sequence ": null
-            },
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
-                "IsActive ": true,
-                "Sequence": null
-            },
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
-                "IsActive": true,
-                " Sequence ": null
-            },
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
-                "IsActive ": true,
-                "Sequence": null
-            },
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
-                "IsActive": true,
-                " Sequence ": null
-            },
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
-                "IsActive ": true,
-                "Sequence": null
-            },
-            {
-                "Type": "COC",
-                "Orientation": 3,
-                "Data": [
-                {
-                    "Name": "page1",
-                    "Id": 2079,
-                    "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-                    "Title": "Home"
-                },
-                {
-                    "Name": "ViewName",
-                    "Id": 2081,
-                    "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-                    "Title": "Page 67"
-                },
-                {
-                    "Name": "ViewName",
-                    "Id": 2082,
-                    "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-                    "Title": "Page 88"
-                }
-            ],
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
+                "Name": "Advanced Search",
+                "Descr": "This is new  our default template.Welcome  to our site.Smile ",
                 "IsActive ": true,
                 "Sequence": null
             }
