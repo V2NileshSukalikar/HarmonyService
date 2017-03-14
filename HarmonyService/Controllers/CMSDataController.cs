@@ -33,7 +33,7 @@ namespace HarmonyService.Controllers
 
             }
             //get the Json filepath  
-            string fileName = pageID == 2079 ? "~/Data/page1.json" : pageID == 2080 ? "~/Data/page2.json" : "~/Data/page3.json";
+            string fileName = pageID == 2079 ? "~/Data/page1.json" : pageID == 2080 ? "~/Data/page2.json" : "~/Data/page4.json";
 
             string file = System.Web.HttpContext.Current.Server.MapPath(fileName);
             //deserialize JSON from file  

@@ -1,216 +1,221 @@
 ﻿{
-    "g": {
-        "Oid": 2079,
-        "Name": "V2 Solutions Pvt. Ltd.",
-        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
-        "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-        "Title": "V2 Solutions Pvt. Ltd.",
-        "IsActive": true,
-        "Menu": [
-            {
-                "Name": "Home",
-                "Value": "2079"
-            },
-            {
-                "Name": "About  Us",
-                "Value": "2080"
+  "g": {
+    "Oid": 2079,
+    "Name": "V2 Solutions Pvt. Ltd.",
+    "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+    "Logo": "http://localhost:53142/Images/harmony-trans-bkg-green.png",
+    "Title": "wrcstaging.harmonyis.net",
+    "IsActive": true,
+    "Menu": [
+      {
+        "Name": "Home",
+        "Value": "2079"
+      },
+      {
+        "Name": "About  Us",
+        "Value": "2080"
 
 
-            },
-            {
-                "Name": "Page3",
-                "Value": "2081"
-            }
-        ]
-    },
-    "f": [
-        {
-            "Oid": 65,
-            "Site": 2079,
-            "Name": "Home",
-            "URL": "Home",
-            "Logo": "9g==",
-            "Title": "Home",
-            "IsActive": true,
-            "IsDefault": true,
-            "IsAuth": true,
-            "IsMenu": true
-        }
-    ],
-    "s": {
-        "Orientation": [
-            {
-                "Type": "Percentage",
-                "Order": [ "80", "20" ]
-            },
-            {
-                "Type": "Number",
-                "Order": [ "1" ]
-            },
-            {
-                "Type": "Percentage",
-                "Order": [ "100" ]
-            },
-            {
-                "Type": "Percentage",
-                "Order": [ "100" ]
-            }
-
-        ],
-        "isCacheble": true,
-        "Data": [
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": 'ADRN--Aging
-                and Disability
-                Resource Network--The
-                Area Agency
-                has been
-                designated by
-                the Ohio
-                Department of
-                Aging (ODA)
-                as the
-                lead agency
-                in our
-                9 county
-                area to
-                develop an
-                ADRN. An
-                ADRN is
-                a group
-                of partners
-                who are
-                either referral
-                sources or
-                resources for
-                older or
-                disabled adults
-                and their
-                Care givers.
-                The primary
-                role of
-                the ADRN
-                is to
-                streamline access
-                to long-term
-                care services
-                by making
-                the consumer
-                experience as
-                seamless as
-                possible. At
-                this point
-                the Area
-                Agency on
-                Aging is
-                in \'phase
-                one\' in
-                developing the
-                ADRN which
-                involves recruiting
-                partners and
-                obtaining Memorandums
-                of Understanding
-                with each
-                partner Agency',
-                "IsActive": true,
-                "Sequence": null
-            },
-            {
-                "Type": "Static",
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": 'ADRN--Aging
-                and Disability
-                Resource Network--The
-                Area Agency
-                has been
-                designated by
-                the Ohio
-                Department of
-                Aging (ODA)
-                as the
-                lead agency
-                in our
-                9 county
-                area to
-                develop an
-                ADRN. An
-                ADRN is
-                a group
-                of partners
-                who are
-                either referral
-                sources or
-                resources for
-                older or
-                disabled adults
-                and their
-                Care givers.
-                The primary
-                role of
-                the ADRN
-                is to
-                streamline access
-                to long-term
-                care services
-                by making
-                the consumer
-                experience as
-                seamless as
-                possible. At
-                this point
-                the Area
-                Agency on
-                Aging is
-                in \'phase
-                one\' in
-                developing the
-                ADRN which
-                involves recruiting
-                partners and
-                obtaining Memorandums
-                of Understanding
-                with each
-                partner Agency',
-                "IsActive": true,
-                "Sequence": null
-            },
-            {
-                "Type": "Search",
-                "Oid": 1035,
-                "Search": 1,
-                "Views": 65,
-                "Name": "Alphabetical Listing",
-                "Descr": "Quickly find a service provider alphabetically by clicking on the first letter of the service provider's name.",
-                "IsActive": true,
-                " Sequence ": null
-            },
-            {
-                "Type": "Search",
-                "Search": 2,
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Search by Keyword",
-                "Descr": "Quickly find a service provider by entering key words (such as name, service or ZIP Code) and then press \"Search",
-                "IsActive": true,
-                "Sequence": null
-            },
-            {
-                "Type": "Search",
-                "Search": 3,
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Advanced Search",
-                "Descr": "This is new  our default template.Welcome  to our site.Smile ",
-                "IsActive ": true,
-                "Sequence": null
-            }
-        ]
+      },
+      {
+        "Name": "Page3",
+        "Value": "2081"
+      }
+    ]
+  },
+  "f": [
+    {
+      "Oid": 65,
+      "Site": 2079,
+      "Name": "Home",
+      "URL": "Home",
+      "Logo": "9g==",
+      "Title": "Home",
+      "IsActive": true,
+      "IsDefault": true,
+      "IsAuth": true,
+      "IsMenu": true
     }
+  ],
+  "s": {
+    "Orientation": [
+      {
+        "Type": "Percentage",
+        "Order": [ "70", "30" ]
+      },
+      {
+        "Type": "Number",
+        "Order": [ "1" ]
+      },
+
+      {
+        "Type": "Class",
+        "Order": [ "col-md-12" ]
+      }
+
+    ],
+    "isCacheble": true,
+    "Data": [
+      {
+        "Type": "Static",
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": '<span
+        class="titleSpan"> <span
+        class="ms-rteThemeForeColor-8-4" title="Welcome to the North Central Ohio ADRN."
+        tabindex="9"><h3 style="color:#C27801"> Welcome
+        to the
+        North Central
+        Ohio ADRN.</h3></span><span
+        style="color: rgb(70, 69, 69);">&nbsp;</span></span></br> ADRN--Aging
+        and Disability
+        Resource Network--The
+        Area Agency
+        has been
+        designated by
+        the Ohio
+        Department of
+        Aging (ODA)
+        as the
+        lead agency
+        in our
+        9 county
+        area to
+        develop an
+        ADRN. An
+        ADRN is
+        a group
+        of partners
+        who are
+        either referral
+        sources or
+        resources for
+        older or
+        disabled adults
+        and their
+        Care givers.
+        The primary
+        role of
+        the ADRN
+        is to
+        streamline access
+        to long-term
+        care services
+        by making
+        the consumer
+        experience as
+        seamless as
+        possible. At
+        this point
+        the Area
+        Agency on
+        Aging is
+        in \'phase
+        one\' in
+        developing the
+        ADRN which
+        involves recruiting
+        partners and
+        obtaining Memorandums
+        of Understanding
+        with each
+        partner Agency',
+        "IsActive": true,
+        "Sequence": null
+      },
+      {
+        "Type": "Search",
+        "Search": 2,
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Welcome",
+        "Descr": 'ADRN--Aging
+        and Disability
+        Resource Network--The
+        Area Agency
+        has been
+        designated by
+        the Ohio
+        Department of
+        Aging (ODA)
+        as the
+        lead agency
+        in our
+        9 county
+        area to
+        develop an
+        ADRN. An
+        ADRN is
+        a group
+        of partners
+        who are
+        either referral
+        sources or
+        resources for
+        older or
+        disabled adults
+        and their
+        Care givers.
+        The primary
+        role of
+        the ADRN
+        is to
+        streamline access
+        to long-term
+        care services
+        by making
+        the consumer
+        experience as
+        seamless as
+        possible. At
+        this point
+        the Area
+        Agency on
+        Aging is
+        in \'phase
+        one\' in
+        developing the
+        ADRN which
+        involves recruiting
+        partners and
+        obtaining Memorandums
+        of Understanding
+        with each
+        partner Agency',
+        "IsActive": true,
+        "Sequence": null
+      },
+      {
+        "Type": "Search",
+        "Oid": 1035,
+        "Search": 1,
+        "Views": 65,
+        "Name": "Alphabetical Listing",
+        "Descr": "Quickly find a service provider alphabetically by clicking on the first letter of the service provider's name.",
+        "IsActive": true,
+        " Sequence ": null
+      },
+      {
+        "Type": "Search",
+        "Search": 2,
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Search by Keyword",
+        "Descr": "Quickly find a service provider by entering key words (such as name, service or ZIP Code) and then press \"Search",
+        "IsActive": true,
+        "Sequence": null
+      },
+      {
+        "Type": "Search",
+        "Search": 3,
+        "Oid": 1035,
+        "Views": 65,
+        "Name": "Advanced Search",
+        "Descr": "This is new  our default template.Welcome  to our site.Smile ",
+        "IsActive ": true,
+        "Sequence": null
+      }
+    ]
+  }
 }

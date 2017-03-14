@@ -3,8 +3,8 @@
         "Oid": 2080,
         "Name": "V3 Solutions tech Pvt. Ltd.",
         "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
-        "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-        "Title": "V3 Solutions tech Pvt. Ltd..",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "wrcstaging.harmonyis.net",
         "IsActive": true,
         "Menu": [
             {
@@ -52,43 +52,43 @@
                     {
                         "Name": "page1",
                         "Id": 2079,
-                        "Logo": "http://localhost:53142/Images/10.png",
+                        "Logo": "http://harmonyservice/Images/10.png",
                         "Title": "What\'s New"
                     },
                     {
                         "Name": "ViewName",
                         "Id": 2081,
-                        "Logo": "http://localhost:53142/Images/11.png",
+                        "Logo": "http://harmonyservice/Images/11.png",
                         "Title": "Adult Abuse, Neglect & Exploitation: Finding Help"
                     },
                     {
                         "Name": "ViewName",
                         "Id": 2082,
-                        "Logo": "http://localhost:53142/Images/13.png",
+                        "Logo": "http://harmonyservice/Images/13.png",
                         "Title": "Alzheimer's Disease & Other Dementias"
                     },
                     {
                         "Name": "ViewName",
                         "Id": 2082,
-                        "Logo": "http://localhost:53142/Images/1.png",
+                        "Logo": "http://harmonyservice/Images/1.png",
                         "Title": "Behavioral Health & Substance Abuse"
                     },
                     {
                         "Name": "ViewName",
                         "Id": 2082,
-                        "Logo": "http://localhost:53142/Images/2.png",
+                        "Logo": "http://harmonyservice/Images/2.png",
                         "Title": "Emergency Preparedness & Response"
                     },
                     {
                         "Name": "ViewName",
                         "Id": 2082,
-                        "Logo": "http://localhost:53142/Images/3.png",
+                        "Logo": "http://harmonyservice/Images/3.png",
                         "Title": "Everyday Needs: Food, Housing & Transportation"
                     },
                      {
                         "Name": "ViewName",
                         "Id": 2082,
-                        "Logo": "http://localhost:53142/Images/4.png",
+                        "Logo": "http://harmonyservice/Images/4.png",
                         "Title": "Financial Matters & Employment Info"
                     }
                 ]

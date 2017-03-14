@@ -3,7 +3,7 @@
         "Oid": 2079,
         "Name": "V2 Solutions Pvt. Ltd.",
         "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
-        "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
         "Title": "V2 Solutions Pvt. Ltd.",
         "IsActive": true,
         "Menu": [
@@ -166,19 +166,19 @@
                     {
                         "Name": "page1",
                         "Id": 2079,
-                        "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
+                        "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
                         "Title": "Home"
                     },
                     {
                         "Name": "ViewName",
                         "Id": 2081,
-                        "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
+                        "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
                         "Title": "Page 67"
                     },
                     {
                         "Name": "ViewName",
                         "Id": 2082,
-                        "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
+                        "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
                         "Title": "Page 88"
                     }
                 ],
