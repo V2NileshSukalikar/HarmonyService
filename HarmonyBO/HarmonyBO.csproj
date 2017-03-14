@@ -39,13 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CMSData.cs" />
-    <Compile Include="Commondata.cs" />
+    <Compile Include="ContentSpecificDataBO.cs" />
     <Compile Include="FilterBO.cs" />
     <Compile Include="FrequentDataBO.cs" />
     <Compile Include="GlobalDataBO.cs" />
-    <Compile Include="HeaderData.cs" />
-    <Compile Include="PageSpecificData.cs" />
+    <Compile Include="MenuBO.cs" />
+    <Compile Include="OrientationBO.cs" />
     <Compile Include="PageSpecificDataBO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SearchContentBO.cs" />

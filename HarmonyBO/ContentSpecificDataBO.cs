@@ -2,19 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace HarmonyBO
 {
-    public class GlobalDataBO
+    public class ContentSpecificDataBO
     {
-        public int Oid { get; set; }
         public string Name { get; set; }
-        public string url { get; set; }
+        public int Id { get; set; }
         public string Logo { get; set; }
         public string Title { get; set; }
-        public bool IsActive { get; set; }
-        public List<MenuBO> Menu { get; set; }
     }
-
-    
 }

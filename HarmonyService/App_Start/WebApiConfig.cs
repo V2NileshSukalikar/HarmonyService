@@ -29,12 +29,6 @@ namespace HarmonyService
            );
 
             config.Routes.MapHttpRoute(
-               name: "searchAPI",
-               routeTemplate: "api/{controller}/{action}/{searchText}"
-                //defaults: new { isheader = false }
-           );
-
-            config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{action}"
                 //defaults: new { isheader = false }

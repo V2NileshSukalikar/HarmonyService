@@ -20,11 +20,5 @@ namespace HarmonyBO
         public int? Sequence { get; set; }
     }
 
-    public class ContentSpecificDataBO
-    {
-        public string Name { get; set; }
-        public int Id { get; set; }
-        public string Logo { get; set; }
-        public string Title { get; set; }
-    }
+   
 }
