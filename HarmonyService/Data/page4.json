@@ -70,21 +70,11 @@
             {
                 "Type": "Search",
                 "Oid": 1035,
-                "Search": 2,
+                "Search": [ 1,2],
                 "Views": 65,
                 "Name": "Welcome",
                 "Descr": " This is our default template. </br> Welcome  to our site.Smile",
                 "IsActive": true,
-                "Sequence": null
-            },
-            {
-                "Type": "Search",
-                "Search": 3,
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Welcome",
-                "Descr": "<h4> This is our default template.</h4> </br> Welcome  to our site.Smile ",
-                "IsActive ": true,
                 "Sequence": null
             },
             {
