@@ -44,20 +44,20 @@ namespace HarmonyService.Controllers
             switch (typeId)
             {
                 //alpha search
-                case 0:
+                case 1:
                     if (searchData.data != null)
                     {
                         searchData.data = searchData.data.Where(c => c.ProviderName.StartsWith(searchText)).ToList();
                     }
                     break;
                 //contains search
-                case 1:
+                case 2:
                     if (searchData.data != null)
                     {
                         searchData.data = searchData.data.Where(c => c.ProviderName.Contains(searchText)).ToList();
                     }
                     break;
-                case 2:
+                case 3:
                     if (searchData.data != null)
                     {
                         searchData.data = searchData.data.Where(c => c.ProviderName.Contains(searchText)).ToList();

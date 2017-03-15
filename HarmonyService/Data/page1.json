@@ -127,7 +127,7 @@
             },
             {
                 "Type": "Search",
-                "Search": 2,
+               "Search": [ 0,1,2],
                 "Oid": 1035,
                 "Views": 65,
                 "Name": "Welcome",
@@ -186,37 +186,8 @@
                 partner Agency',
                 "IsActive": true,
                 "Sequence": null
-            },
-            {
-                "Type": "Search",
-                "Oid": 1035,
-                "Search": 1,
-                "Views": 65,
-                "Name": "Alphabetical Listing",
-                "Descr": "Quickly find a service provider alphabetically by clicking on the first letter of the service provider's name.",
-                "IsActive": true,
-                " Sequence ": null
-            },
-            {
-                "Type": "Search",
-                "Search": 2,
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Search by Keyword",
-                "Descr": "Quickly find a service provider by entering key words (such as name, service or ZIP Code) and then press \"Search",
-                "IsActive": true,
-                "Sequence": null
-            },
-            {
-                "Type": "Search",
-                "Search": 3,
-                "Oid": 1035,
-                "Views": 65,
-                "Name": "Advanced Search",
-                "Descr": "This is new  our default template.Welcome  to our site.Smile ",
-                "IsActive ": true,
-                "Sequence": null
             }
+            
         ]
     }
 }

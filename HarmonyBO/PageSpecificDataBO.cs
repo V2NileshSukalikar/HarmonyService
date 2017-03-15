@@ -10,7 +10,7 @@ namespace HarmonyBO
     {
         public string Type { get; set; }
         public int Orientation { get; set; }
-        public int Search { get; set; }
+        public List<int> Search { get; set; }
         public List<ContentSpecificDataBO> Data { get; set; }
         public int Oid { get; set; }
         public int Views { get; set; }
