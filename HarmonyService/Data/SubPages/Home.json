@@ -1,0 +1,315 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div class="ms-rte-layoutszone-inner smallFont"
+                role="textbox" aria-autocomplete="both"
+                aria-haspopup="true" aria-multiline="true"><div
+                class="ms-rtestate-read ms-rte-wpbox smallFont"><div class="ms-rtestate-notify  ms-rtestate-read 68956782-a552-45b7-846a-8eca628dfb10 smallFont"
+                id="div_68956782-a552-45b7-846a-8eca628dfb10" unselectable="on"></div>
+                <div id="vid_68956782-a552-45b7-846a-8eca628dfb10"
+                unselectable="on" style="display:none"
+                class="smallFont"></div></div> <style>
+                .ExternalClass15DD38632B97419ABC5C706A99B320FC .ms-viewheadertr
+                { display: none; }
+                </style> <div
+                class="title clearfix smallFont"><h1>Home &amp;
+                Community Based
+                Services</h1></div> <div
+                class="ms-rtestate-read ms-rte-wpbox smallFont"><div class="ms-rtestate-notify  ms-rtestate-read df325f16-8049-4797-b866-cd32f3801a43 smallFont"
+                id="div_df325f16-8049-4797-b866-cd32f3801a43"><table style="width:100%"
+                cellpadding="0" cellspacing="0"><tbody><tr><td
+                id="MSOZoneCell_WebPartWPQ2" webpartwpq2_relatedlistid="{4eb26246-c07c-4533-aabb-4334db8b40d6}"
+                webpartwpq2_webpartstoragekey="185be663-db3f-47ab-9903-a78b60791d5c" valign="top"
+                class="s4-wpcell" onkeyup="WpKeyUp(event)"
+                onmouseup="WpClick(event)"><table class="s4-wpTopTable"
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody><tr> <td
+                valign="top"><div webpartid="185be663-db3f-47ab-9903-a78b60791d5c"
+                webpartid2="df325f16-8049-4797-b866-cd32f3801a43" haspers="false"
+                id="WebPartWPQ2" width="100%"
+                allowremove="false" allowdelete="false"
+                style="" class="smallFont"><script
+                xmlns: x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal">
+                try {
+                    // remove the click handler of the containing element
+                    $get(\u0027MSOZoneCell_WebPartWPQ2\u0027).onmouseup =
+                    function ()
+                    { }
+                    ;
+                    // remove the TD element containing the wp selection checkbox in the wp\u0027s header
+                    $get(\u0027SelectionCbxWebPartWPQ2\u0027).parentNode.parentNode.style.display
+                    = \u0027none\u0027;
+                }
+                catch (ex)
+                { }
+                </script><table width="100%"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"
+                xmlns: o="urn:schemas-microsoft-com:office:office"><script
+                type="text/javascript"> ctx
+                = new
+                ContextInfo(); var
+                existingHash =
+                \u0027\u0027; if(window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    \u0027&\u0027).replace(/&&/g,
+                    \u0027-\u0027); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if(""
+                    == serverFilterRootFolder
+                    && ""
+                    != currentRootFolder)
+                    {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    \u0027\u0027; window.location.search
+                    = \u0027?\u0027
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{4EB26246-C07C-4533-AABB-4334DB8B40D6}";
+                ctx.view =
+                "{185BE663-DB3F-47AB-9903-A78B60791D5C}"; ctx.listUrlDir
+                = "/Lists/Home%20%20Community%20Based%20Services%20%20Subcategory";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "1";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Home \u0026 Community Based Services - Subcategory";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={4EB26246-C07C-4533-AABB-4334DB8B40D6}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={4EB26246-C07C-4533-AABB-4334DB8B40D6}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                81; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{185BE663-DB3F-47AB-9903-A78B60791D5C}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{185BE663-DB3F-47AB-9903-A78B60791D5C}" ]
+                = 81;
+                ctx.CurrentUserId =
+                -1; ctx81
+                = ctx;
+                g_ctxDict [ \u0027ctx81\u0027 ]
+                = ctx;
+                </script><tbody><tr><td><iframe src="javascript:false;"
+                id="FilterIframe81" name="FilterIframe81"
+                style="display:none" height="0"
+                width="0" filterlink="?"></iframe><table
+                summary="Home &amp; Community Based Services - Subcategory " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;View={185BE663-DB3F-47AB-9903-A78B60791D5C}"
+                width="100%" border="0"
+                cellspacing="0" dir="none"
+                onmouseover="EnsureSelectionHandler(event,this,81)" cellpadding="1"
+                id="{4EB26246-C07C-4533-AABB-4334DB8B40D6}-{185BE663-DB3F-47AB-9903-A78B60791D5C}" class="ms-listviewtable"><tbody><tr
+                valign="top" class="ms-viewheadertr ms-vhltr"><th
+                nowrap="" scope="col"
+                onmouseover="OnChildColumn(this)" class="ms-vh2"><div
+                sortable="" sortdisable=""
+                filterdisable="" filterable="FALSE"
+                filterdisablemessage="" name="URLNoMenu"
+                ctxnum="81" displayname="URL"
+                fieldtype="Computed" resulttype=""
+                sortfields="View={185be663-db3f-47ab-9903-a78b60791d5c}&amp;SortField=URLNoMenu&amp;SortDir=Asc" class="ms-vh-div smallFont"><a
+                id="diidSortURLNoMenu" onfocus="OnFocusFilter(this)"
+                href="javascript:" onclick="javascript:return OnClickFilter(this,event);"
+                sortingfields="View={185be663-db3f-47ab-9903-a78b60791d5c}&amp;SortField=URLNoMenu&amp;SortDir=Asc">URL<img src="/_layouts/images/blank.gif"
+                class="ms-hidden" border="0"
+                width="1" height="1"
+                alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/images/blank.gif"
+                alt="" border="0"><img
+                src="/_layouts/images/blank.gif" border="0"
+                alt=""></div><div class="s4-ctx smallFont"><span>&nbsp;</span><a
+                onfocus="OnChildColumn(this.parentNode.parentNode); return false;" onclick="PopMenuFromChevron(event); return false;"
+                href="javascript:;" title="Open Menu"></a><span>&nbsp;</span></div></th></tr><input
+                type="hidden" id="GroupByColFlag"><input
+                type="hidden" id="GroupByWebPartID81"
+                webpartid="{185BE663-DB3F-47AB-9903-A78B60791D5C}"></tbody><tbody id="GroupByCol{185BE663-DB3F-47AB-9903-A78B60791D5C}"><tr
+                id="GroupByCol81" querystring="?"></tr></tbody><tbody
+                id="titl81-1_" groupstring="%3B%23Adult%20Day%20Services%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(\u002781-1_\u0027, \u0027img_81-1_\u0027,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_81-1_">&nbsp;Subcategory</a>
+                : Adult
+                Day Services<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(1) </span></td></tr></tbody><tbody
+                id="tbod81-1__" isloaded="true"></tbody><tbody><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.ncnmedd.com/aaaprograms%26services.htm">Senior
+                Centers in
+                Your Area</a></td></tr></tbody><tbody
+                id="titl81-2_" groupstring="%3B%23Federal%20%2F%20State%20Public%20Benefits%20Programs%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(\u002781-2_\u0027, \u0027img_81-2_\u0027,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_81-2_">&nbsp;Subcategory</a>
+                : Federal
+                / State
+                Public Benefits
+                Programs<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(10)
+                </span></td></tr></tbody><tbody id="tbod81-2__"
+                isloaded="true"></tbody><tbody><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="/knowledgecenter/Benefits%20Counseling%20Desk%20Reference%202012.doc">A Guide
+                to Public
+                Benefits for
+                New Mexicans</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/COLTS_overview.html">Coordination
+                of Long
+                Term Services
+                Program (COLTS)</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.health.state.nm.us/ddsd/servicesoverview/pg02overviewddw.htm">Developmentally
+                Disabled (DD)
+                Waiver</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.disabilityinfo.gov/digov-public/public/DisplayPage.do?parentFolderId=500">DisabilityInfo.gov: Information
+                from the
+                US Government</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/DandE_Program.html">Disabled
+                &amp; Elderly
+                (D&amp;E) Waiver</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/PCO_Program.html">Medicaid
+                Personal Care
+                Option (PCO)
+                Program</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.mivianm.org/">Mi Via
+                Program of
+                Self Directed
+                Care</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/GAP_program.html">The GAP
+                Program</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/PACE_Program.html">The PACE
+                (Program of
+                All-Inclusive Care
+                for the
+                Elderly) Program</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.ageinplace.org/">What
+                is Aging
+                in Place?</a></td></tr></tbody></table><script
+                type="text/javascript">HideListViewRows("{4EB26246-C07C-4533-AABB-4334DB8B40D6}-{185BE663-DB3F-47AB-9903-A78B60791D5C}");</script></td></tr></tbody></table></div></td> </tr>
+                </tbody></table></td></tr></tbody></table></div> <div
+                id="vid_df325f16-8049-4797-b866-cd32f3801a43" style="display:none"
+                class="smallFont"></div></div> </div>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

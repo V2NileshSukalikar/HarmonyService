@@ -1,0 +1,340 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div class="ms-rte-layoutszone-inner smallFont"
+                role="textbox" aria-autocomplete="both"
+                aria-haspopup="true" aria-multiline="true">
+                <h1 style="font-family:arial;font-weight:normal;line-height:26px">Veterans
+                Resources</h1> <div
+                class="smallFont"><br></div> <div
+                class="smallFont"> <div
+                class="ms-rtestate-read ms-rte-wpbox smallFont" unselectable="on">
+                <div class="ms-rtestate-notify  ms-rtestate-read 27dcd48c-1907-4fb6-87a4-53ca2c59a472 smallFont"
+                id="div_27dcd48c-1907-4fb6-87a4-53ca2c59a472" unselectable="on">
+                <table style="width:100%"
+                cellpadding="0" cellspacing="0">
+                <tbody> <tr>
+                <td id="MSOZoneCell_WebPartWPQ2"
+                webpartwpq2_relatedlistid="{b7b10152-8ae8-498b-96a3-837b01875d88}" webpartwpq2_webpartstoragekey="ff26918c-0200-48ee-b481-f6b75f91a123"
+                valign="top" class="s4-wpcell"
+                onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)">
+                <table class="s4-wpTopTable"
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody> <tr>
+                <td> <table
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody> <tr
+                class="ms-WPHeader"> <td
+                align="left" class="ms-wpTdSpace">&nbsp;</td>
+                <td title="Veterans Resources - Veterans Resources "
+                id="WebPartTitleWPQ2" class="ms-WPHeaderTd"><h3
+                style="text-align:justify;" class="ms-standardheader ms-WPTitle"><a
+                accesskey="W" href="/Lists/Veterans%20Resources"><nobr><span>Veterans
+                Resources</span><span id="WebPartCaptionWPQ2"></span></nobr></a></h3></td>
+                <td class="ms-WPHeaderTdSelection"><span
+                class="ms-WPHeaderTdSelSpan"><input type="checkbox"
+                id="SelectionCbxWebPartWPQ2" class="ms-WPHeaderCbxHidden"
+                title="Select or deselect Veterans Resources Web Part" onblur="this.className=ms-WPHeaderCbxHidden"
+                onfocus="this.className=ms-WPHeaderCbxVisible" onkeyup="WpCbxKeyHandler(event);"
+                onmouseup="WpCbxSelect(event); return false;" onclick="TrapMenuClick(event); return false;"></span></td>
+                <td align="left"
+                class="ms-wpTdSpace">&nbsp;</td> </tr>
+                </tbody> </table>
+                </td> </tr>
+                <tr> <td
+                class="" valign="top">
+                <div webpartid="ff26918c-0200-48ee-b481-f6b75f91a123"
+                webpartid2="27dcd48c-1907-4fb6-87a4-53ca2c59a472" haspers="false"
+                id="WebPartWPQ2" width="100%"
+                class="ms-wpContentDivSpace smallFont" allowremove="false"
+                allowdelete="false" allowexport="false"
+                style=""> <table
+                width="100%" cellspacing="0"
+                cellpadding="0" border="0"
+                xmlns: x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal">
+                <script type="text/javascript">
+                ctx =
+                new ContextInfo();
+
+                var existingHash
+                = ;
+                if (window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    &).replace(/&&/g,
+                    -); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if
+                    ("" ==
+                    serverFilterRootFolder &&
+                    "" !=
+                    currentRootFolder) {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    ; window.location.search
+                    = ?
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{B7B10152-8AE8-498B-96A3-837B01875D88}";
+                ctx.view =
+                "{FF26918C-0200-48EE-B481-F6B75F91A123}"; ctx.listUrlDir
+                = "/Lists/Veterans%20Resources";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "1";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Veterans Resources";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={B7B10152-8AE8-498B-96A3-837B01875D88}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={B7B10152-8AE8-498B-96A3-837B01875D88}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                62; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{FF26918C-0200-48EE-B481-F6B75F91A123}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{FF26918C-0200-48EE-B481-F6B75F91A123}" ]
+                = 62;
+                ctx.CurrentUserId =
+                -1; ctx62
+                = ctx;
+                g_ctxDict [ ctx62 ]
+                = ctx;
+                </script> <tbody>
+                <tr> <td>
+                <iframe src="javascript:false;"
+                id="FilterIframe62" name="FilterIframe62"
+                style="display:none" height="0"
+                width="0" filterlink="?"></iframe><table
+                summary="Veterans Resources Veterans Resources " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;View={FF26918C-0200-48EE-B481-F6B75F91A123}"
+                width="100%" border="0"
+                cellspacing="0" dir="none"
+                onmouseover="                                                                EnsureSelectionHandler(event, this, 62)" cellpadding="1"
+                id="{B7B10152-8AE8-498B-96A3-837B01875D88}-{FF26918C-0200-48EE-B481-F6B75F91A123}" class="ms-listviewtable"
+                xmlns: o="urn:schemas-microsoft-com:office:office"
+                handledeleteinit="true"><tbody><tr valign="top"
+                class="ms-viewheadertr ms-vhltr"><th class="ms-vh-icon"
+                scope="col"><input type="checkbox"
+                title="Select or deselect all items" onclick="                                                                ToggleAllItems(event, this, 62)"
+                onfocus="                                                                EnsureSelectionHandlerOnFocus(event, this, 62)" class="s4-selectAllCbx"></th><th
+                nowrap="" scope="col"
+                onmouseover="                                                                OnChildColumn(this)" class="ms-vh2"><div
+                sortable="" sortdisable=""
+                filterdisable="" filterable="FALSE"
+                filterdisablemessage="" name="URLNoMenu"
+                ctxnum="62" displayname="URL"
+                fieldtype="Computed" resulttype=""
+                sortfields="View={ff26918c-0200-48ee-b481-f6b75f91a123}&amp;SortField=URLNoMenu&amp;SortDir=Asc" class="ms-vh-div smallFont"><a
+                id="diidSortURLNoMenu" onfocus="                                                                OnFocusFilter(this)"
+                href="javascript:" onclick="                                                                javascript: return OnClickFilter(this, event);"
+                sortingfields="View={ff26918c-0200-48ee-b481-f6b75f91a123}&amp;SortField=URLNoMenu&amp;SortDir=Asc">URL<img src="/_layouts/images/blank.gif"
+                class="ms-hidden" border="0"
+                width="1" height="1"
+                alt=""></a><img src="/_layouts/images/blank.gif"
+                alt="" border="0"><img
+                src="/_layouts/images/blank.gif" border="0"
+                alt=""></div><div class="s4-ctx"
+                style="top: 90px; left: 1422px; height: 32px; line-height: 32px; margin: 0px;"><span>&nbsp;</span><a onfocus="                                                                OnChildColumn(this.parentNode.parentNode); return false;"
+                onclick="                                                                PopMenuFromChevron(event); return false;" href="javascript:;"
+                title="Open Menu"><img src="/_layouts/images/ecbarw.png"
+                alt="Open Menu" style="visibility: hidden;"></a><span>&nbsp;</span></div></th></tr><tr
+                class="ms-itmhover" iid="62,1,0"
+                setedgeborder="true"><td class="ms-vb-itmcbx ms-vb-firstCell"><input
+                type="checkbox" class="s4-itm-cbx"
+                title="1"></td><td class="ms-vb2 ms-vb-lastCell"><a
+                onfocus="                                                                OnLink(this)" href="https://ms.agingresources.us/knowledgecenter/Caregiving%20and%20Veterans.doc">Caregiving
+                and Veterans</a></td></tr><tr
+                class="ms-alternating ms-itmhover" iid="62,2,0"
+                setedgeborder="true"><td class="ms-vb-itmcbx ms-vb-firstCell"><input
+                type="checkbox" class="s4-itm-cbx"
+                title="2"></td><td class="ms-vb2 ms-vb-lastCell"><a
+                onfocus="                                                                OnLink(this)" href="http://www1.va.gov/OPA/publications/benefits_book.asp">Federal
+                Benefits for
+                Veterans &amp;
+                Dependents</a></td></tr><tr class="ms-itmhover"
+                iid="62,3,0" setedgeborder="true"><td
+                class="ms-vb-itmcbx ms-vb-firstCell"><input type="checkbox"
+                class="s4-itm-cbx" title="3"></td><td
+                class="ms-vb2 ms-vb-lastCell"><a onfocus="                                                                OnLink(this)"
+                href="http://www.benefits.gov/">Benefits.gov -
+                Information on
+                over 1,
+                000 benefit
+                and assistance
+                programs</a></td></tr><tr class="ms-alternating ms-itmhover"
+                iid="62,4,0" setedgeborder="true"><td
+                class="ms-vb-itmcbx ms-vb-firstCell"><input type="checkbox"
+                class="s4-itm-cbx" title="4"></td><td
+                class="ms-vb2 ms-vb-lastCell"><a onfocus="                                                                OnLink(this)"
+                href="https://www.healthcare.gov/">Healthcare: Explore
+                Your Healthcare
+                Options</a></td></tr><tr class="ms-itmhover"
+                iid="62,5,0" setedgeborder="true"><td
+                class="ms-vb-itmcbx ms-vb-firstCell"><input type="checkbox"
+                class="s4-itm-cbx" title="5"></td><td
+                class="ms-vb2 ms-vb-lastCell"><a onfocus="                                                                OnLink(this)"
+                href="http://portal.hud.gov/hudportal/HUD?src=/states/pennsylvania">Homeless Information</a></td></tr><tr
+                class="ms-alternating ms-itmhover" iid="62,6,0"
+                setedgeborder="true"><td class="ms-vb-itmcbx ms-vb-firstCell"><input
+                type="checkbox" class="s4-itm-cbx"
+                title="6"></td><td class="ms-vb2 ms-vb-lastCell"><a
+                onfocus="                                                                OnLink(this)" href="http://hap.usace.army.mil/Overview.html">Military
+                Homeownership Assistance</a></td></tr><tr
+                class="ms-itmhover" iid="62,7,0"
+                setedgeborder="true"><td class="ms-vb-itmcbx ms-vb-firstCell"><input
+                type="checkbox" class="s4-itm-cbx"
+                title="7"></td><td class="ms-vb2 ms-vb-lastCell"><a
+                onfocus="                                                                OnLink(this)" href="http://www.militaryonesource.mil/">Military
+                OneSource: Information
+                for Veterans</a></td></tr><tr
+                class="ms-alternating ms-itmhover" iid="62,8,0"
+                setedgeborder="true"><td class="ms-vb-itmcbx ms-vb-firstCell"><input
+                type="checkbox" class="s4-itm-cbx"
+                title="8"></td><td class="ms-vb2 ms-vb-lastCell"><a
+                onfocus="                                                                OnLink(this)" href="/knowledgecenter/Supporting%20Caregivers_%20Veterans.doc">Supporting
+                Caregivers As
+                They Support
+                Our Veterans</a></td></tr><tr
+                class="ms-itmhover" iid="62,9,0"
+                setedgeborder="true"><td class="ms-vb-itmcbx ms-vb-firstCell"><input
+                type="checkbox" class="s4-itm-cbx"
+                title="9"></td><td class="ms-vb2 ms-vb-lastCell"><a
+                onfocus="                                                                OnLink(this)" href="http://www.caregiver.va.gov/index.asp">VA
+                Caregiver Support
+                Resources and
+                Information</a></td></tr></tbody></table> <script
+                type="text/javascript"> HideListViewRows("{B7B10152-8AE8-498B-96A3-837B01875D88}-{FF26918C-0200-48EE-B481-F6B75F91A123}");</script>
+                </td> </tr>
+                </tbody> </table>
+                </div> </td>
+                </tr> </tbody>
+                </table> </td>
+                </tr> </tbody>
+                </table> </div>
+                <div id="vid_27dcd48c-1907-4fb6-87a4-53ca2c59a472"
+                class="smallFont" unselectable="on"
+                style="display:none"></div> </div>
+
+                <br> </div>
+                <div class="smallFont"><br></div>
+                <div class="smallFont">
+                <div class="ms-rtestate-read ms-rte-wpbox smallFont">
+                <div class="ms-rtestate-notify  ms-rtestate-read a423e8a2-2413-4f6d-951b-3487167c1f7c smallFont"
+                id="div_a423e8a2-2413-4f6d-951b-3487167c1f7c"></div> <div
+                id="vid_a423e8a2-2413-4f6d-951b-3487167c1f7c" class="smallFont"
+                style="display:none"></div> </div>
+                <div class="ms-rtestate-read ms-rte-wpbox smallFont">
+                <div class="ms-rtestate-read 21c683dc-7781-4969-9637-252fa2dc2648 smallFont"
+                id="div_21c683dc-7781-4969-9637-252fa2dc2648"></div> <div
+                id="vid_21c683dc-7781-4969-9637-252fa2dc2648" class="smallFont"
+                style="display:none"></div> </div>
+                <br> </div>
+                </div>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

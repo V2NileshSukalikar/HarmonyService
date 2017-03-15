@@ -1,0 +1,464 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div class="ms-rte-layoutszone-inner smallFont"
+                role="textbox" aria-autocomplete="both"
+                aria-haspopup="true" aria-multiline="true">
+                <style> .ExternalClassC9608F7439C945A3896E4B76EB6E02CD
+                .ms-viewheadertr {
+                    display: none;
+                }
+                </style> <div
+                class="title clearfix smallFont"> <h1>
+                Senior Lifestyle
+                : Stay
+                Active,
+                Be Happy,
+                Live Healthy
+                </h1> </div>
+                <br><div class="ms-rtestate-read ms-rte-wpbox smallFont"
+                unselectable="on"> <div
+                id="div_6000f9e2-d0e4-4f4f-acde-1cc758dd1046" class="ms-rtestate-notify  ms-rtestate-read 6000f9e2-d0e4-4f4f-acde-1cc758dd1046 smallFont"
+                unselectable="on"> <table
+                style="width:100%" cellpadding="0"
+                cellspacing="0"> <tbody>
+                <tr> <td
+                id="MSOZoneCell_WebPartWPQ2" webpartwpq2_relatedlistid="{df93a466-2f1e-4efa-9a6b-40e242ce7b63}"
+                webpartwpq2_webpartstoragekey="b70f1243-5622-4bda-9d5e-043df05f83b6" valign="top"
+                class="s4-wpcell" onkeyup="WpKeyUp(event)"
+                onmouseup="WpClick(event)"> <table
+                class="s4-wpTopTable" border="0"
+                cellpadding="0" cellspacing="0"
+                width="100%"> <tbody>
+                <tr> <td
+                valign="top"> <div
+                webpartid="b70f1243-5622-4bda-9d5e-043df05f83b6" webpartid2="6000f9e2-d0e4-4f4f-acde-1cc758dd1046"
+                haspers="false" id="WebPartWPQ2"
+                width="100%" allowremove="false"
+                allowdelete="false" style="display:none;"
+                class="smallFont"> <table
+                width="100%" cellpadding="0"
+                cellspacing="0" border="0"
+                xmlns: x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal">
+                <script type="text/javascript">
+                ctx =
+                new ContextInfo();
+
+                var existingHash
+                = ;
+                if (window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    &).replace(/&&/g,
+                    -); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if
+                    ("" ==
+                    serverFilterRootFolder &&
+                    "" !=
+                    currentRootFolder) {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    ; window.location.search
+                    = ?
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{DF93A466-2F1E-4EFA-9A6B-40E242CE7B63}";
+                ctx.view =
+                "{B70F1243-5622-4BDA-9D5E-043DF05F83B6}"; ctx.listUrlDir
+                = "/Lists/Senior%20Lifestyle%20Stay%20Active%20Be%20Happy%20Live%20Healthy";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Senior Lifestyle: Stay Active, Be Happy, Live Healthy - Main";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={DF93A466-2F1E-4EFA-9A6B-40E242CE7B63}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={DF93A466-2F1E-4EFA-9A6B-40E242CE7B63}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                69; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{B70F1243-5622-4BDA-9D5E-043DF05F83B6}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{B70F1243-5622-4BDA-9D5E-043DF05F83B6}" ]
+                = 69;
+                ctx.CurrentUserId =
+                -1; ctx69
+                = ctx;
+                g_ctxDict [ ctx69 ]
+                = ctx;
+                </script> <tbody><tr><td><table
+                id="{DF93A466-2F1E-4EFA-9A6B-40E242CE7B63}-{B70F1243-5622-4BDA-9D5E-043DF05F83B6}" summary="Senior Lifestyle: Stay Active, Be Happy, Live Healthy - Main "
+                o: webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;List={DF93A466-2F1E-4EFA-9A6B-40E242CE7B63}&amp;View={B70F1243-5622-4BDA-9D5E-043DF05F83B6}"
+                class="ms-summarycustombody" style="margin-bottom: 5px;"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : o="urn:schemas-microsoft-com:office:office"><tbody><tr><td
+                class="ms-vb" colspan="99">There
+                are currently
+                no favorite
+                links to
+                display.</td></tr><tr><td height="5"><img
+                src="/_layouts/images/blank.gif" width="1"
+                height="5" alt=""></td></tr></tbody></table></td></tr></tbody>
+                </table> </div>
+                </td> </tr>
+                </tbody> </table>
+                </td> </tr>
+                </tbody> </table>
+                </div> <div
+                id="vid_6000f9e2-d0e4-4f4f-acde-1cc758dd1046" unselectable="on"
+                style="display:none" class="smallFont"></div>
+                </div> <div
+                class="ms-rtestate-read ms-rte-wpbox smallFont"> <div
+                id="div_8290a43a-0822-484e-8741-b426f652b73e" class="ms-rtestate-notify  ms-rtestate-read 8290a43a-0822-484e-8741-b426f652b73e smallFont">
+                <table style="width:100%"
+                cellpadding="0" cellspacing="0">
+                <tbody> <tr>
+                <td id="MSOZoneCell_WebPartWPQ3"
+                webpartwpq3_relatedlistid="{57fc35cd-7042-4e5e-bbed-cd7fc3033773}" webpartwpq3_webpartstoragekey="947b7269-0f28-43b0-81de-d128a83d288e"
+                valign="top" class="s4-wpcell"
+                onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)">
+                <table class="s4-wpTopTable"
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody> <tr>
+                <td valign="top">
+                <div webpartid="947b7269-0f28-43b0-81de-d128a83d288e"
+                webpartid2="8290a43a-0822-484e-8741-b426f652b73e" haspers="false"
+                id="WebPartWPQ3" width="100%"
+                allowremove="false" allowdelete="false"
+                style="" class="smallFont">
+                <script xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal">
+                try {
+                    // remove the click handler of the containing element
+                    $get(MSOZoneCell_WebPartWPQ3).onmouseup =
+                    function ()
+                    { }
+                    ;
+                    // remove the TD element containing the wp selection checkbox in the wps header
+                    $get(SelectionCbxWebPartWPQ3).parentNode.parentNode.style.display
+                    = none;
+                }
+                catch (ex)
+                { }
+                </script><table width="100%"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"
+                xmlns: o="urn:schemas-microsoft-com:office:office">
+                <script type="text/javascript">
+                ctx =
+                new ContextInfo();
+
+                var existingHash
+                = ;
+                if (window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    &).replace(/&&/g,
+                    -); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if
+                    ("" ==
+                    serverFilterRootFolder &&
+                    "" !=
+                    currentRootFolder) {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    ; window.location.search
+                    = ?
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{57FC35CD-7042-4E5E-BBED-CD7FC3033773}";
+                ctx.view =
+                "{947B7269-0F28-43B0-81DE-D128A83D288E}"; ctx.listUrlDir
+                = "/Lists/Senior%20Lifestyle%20Stay%20Active%20Be%20Happy%20Live%20Heal1";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "1";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Senior Lifestyle: Stay Active, Be Happy, Live Healthy - Subcategory";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={57FC35CD-7042-4E5E-BBED-CD7FC3033773}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={57FC35CD-7042-4E5E-BBED-CD7FC3033773}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                70; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{947B7269-0F28-43B0-81DE-D128A83D288E}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{947B7269-0F28-43B0-81DE-D128A83D288E}" ]
+                = 70;
+                ctx.CurrentUserId =
+                -1; ctx70
+                = ctx;
+                g_ctxDict [ ctx70 ]
+                = ctx;
+                </script> <tbody>
+                <tr> <td>
+                <iframe src="javascript:false;"
+                id="FilterIframe70" name="FilterIframe70"
+                style="display:none" height="0"
+                width="0" filterlink="?"></iframe><table
+                summary="Senior Lifestyle: Stay Active, Be Happy, Live Healthy - Subcategory " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;View={947B7269-0F28-43B0-81DE-D128A83D288E}"
+                width="100%" border="0"
+                cellspacing="0" dir="none"
+                onmouseover="                                                        EnsureSelectionHandler(event, this, 70)" cellpadding="1"
+                id="{57FC35CD-7042-4E5E-BBED-CD7FC3033773}-{947B7269-0F28-43B0-81DE-D128A83D288E}" class="ms-listviewtable"
+                handledeleteinit="true"> <tbody><tr
+                valign="top" class="ms-viewheadertr ms-vhltr"><th
+                nowrap="" scope="col"
+                onmouseover="                                                        OnChildColumn(this)" class="ms-vh2"><div
+                sortable="" sortdisable=""
+                filterdisable="" filterable="FALSE"
+                filterdisablemessage="" name="URLNoMenu"
+                ctxnum="70" displayname="URL"
+                fieldtype="Computed" resulttype=""
+                sortfields="View={947b7269-0f28-43b0-81de-d128a83d288e}&amp;SortField=URLNoMenu&amp;SortDir=Asc" class="ms-vh-div smallFont"><a
+                id="diidSortURLNoMenu" onfocus="                                                        OnFocusFilter(this)"
+                href="javascript:" onclick="                                                        javascript: return OnClickFilter(this, event);"
+                sortingfields="View={947b7269-0f28-43b0-81de-d128a83d288e}&amp;SortField=URLNoMenu&amp;SortDir=Asc">URL<img src="/_layouts/images/blank.gif"
+                class="ms-hidden" border="0"
+                width="1" height="1"
+                alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/images/blank.gif"
+                alt="" border="0"><img
+                src="/_layouts/images/blank.gif" border="0"
+                alt=""></div><div class="s4-ctx smallFont"><span>&nbsp;</span><a
+                onfocus="                                                        OnChildColumn(this.parentNode.parentNode); return false;" onclick="                                                        PopMenuFromChevron(event); return false;"
+                href="javascript:;" title="Open Menu"></a><span>&nbsp;</span></div></th></tr><input
+                type="hidden" id="GroupByColFlag"><input
+                type="hidden" id="GroupByWebPartID70"
+                webpartid="{947B7269-0F28-43B0-81DE-D128A83D288E}"></tbody> <tbody
+                id="GroupByCol{947B7269-0F28-43B0-81DE-D128A83D288E}"><tr id="GroupByCol70"
+                querystring="?"></tr></tbody> <tbody
+                id="titl70-1_" groupstring="%3B%23Senior%20Centers%20%26%20Activities%3B%23">
+                <tr id="group0">
+                <td colspan="100"
+                nowrap="" class="ms-gb">
+                <a href="javascript:"
+                onclick="                                                        javascript: ExpCollGroup(70-1_, img_70-1_, event, false); return false;"><img src="/_layouts/images/minus.gif"
+                border="0" alt="collapse"
+                id="img_70-1_">&nbsp;Subcategory</a>: Senior
+                Centers &amp;
+                Activities<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">
+                &nbsp;‎(4) </span>
+                </td> </tr>
+                </tbody> <tbody
+                id="tbod70-1__" isloaded="true"></tbody>
+                <tbody><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.aarp.org/learntech/computers/life_online/finding_your_hobby_online.html">Is your
+                Hobbie Online?</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/Aging_Network_Division.html">New
+                Mexico Senior
+                Centers &amp;
+                Activities</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.ncnmedd.com/aaaprograms%26services.htm">Senior Centers
+                in Your
+                Area</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmseniorolympics.org/">Senior Olympics</a></td></tr></tbody>
+                <tbody id="titl70-2_"
+                groupstring="%3B%23Volunteering%3B%23"> <tr
+                id="group0"> <td
+                colspan="100" nowrap=""
+                class="ms-gb"> <a
+                href="javascript:" onclick="javascript:ExpCollGroup(70-2_, img_70-2_,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_70-2_">&nbsp;Subcategory</a>
+                : Volunteering<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;"> &nbsp;‎(4)
+                </span> </td>
+                </tr> </tbody>
+                <tbody id="tbod70-2__"
+                isloaded="true"></tbody> <tbody><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/volunteer.html">Great
+                Volunteer Opportunities</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.santafenm.gov/index.asp?NID=429">RSVP
+                Program: Santa
+                Fe</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.seniorcorps.org/">Senior Corps</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmseniorolympics.org/volunteer.htm">Volunteer
+                for the
+                Senior Olympics</a></td></tr></tbody>
+                </table> <script
+                type="text/javascript">HideListViewRows("{57FC35CD-7042-4E5E-BBED-CD7FC3033773}-{947B7269-0F28-43B0-81DE-D128A83D288E}");</script> </td>
+                </tr> </tbody>
+                </table> </div>
+                </td> </tr>
+                </tbody> </table>
+                </td> </tr>
+                </tbody> </table>
+                </div> <div
+                id="vid_8290a43a-0822-484e-8741-b426f652b73e" style="display:none"
+                class="smallFont"></div> </div>
+                ',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

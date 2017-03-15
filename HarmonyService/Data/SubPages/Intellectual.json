@@ -1,0 +1,256 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div class="ms-rte-layoutszone-inner smallFont"
+                role="textbox" aria-autocomplete="both"
+                aria-haspopup="true" aria-multiline="true">
+                <h1 style="font-family:arial;font-weight:normal;line-height:26px">Intellectual
+                / Developmental
+                Disability&nbsp;</h1> <div
+                class="smallFont"> <div
+                class="ms-rtestate-read ms-rte-wpbox smallFont"> <div
+                class="ms-rtestate-notify  ms-rtestate-read b689dc9b-1bed-4c70-97c8-ed3ef861c7a1 smallFont" id="div_b689dc9b-1bed-4c70-97c8-ed3ef861c7a1">
+                <table style="width:100%"
+                cellpadding="0" cellspacing="0">
+                <tbody> <tr>
+                <td id="MSOZoneCell_WebPartWPQ2"
+                webpartwpq2_relatedlistid="{de5f3dc0-dde5-4f7f-ae9f-e554248e60f5}" webpartwpq2_webpartstoragekey="44f8408c-b42f-43ac-9908-a5de6870fb54"
+                valign="top" class="s4-wpcell"
+                onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)">
+                <table class="s4-wpTopTable"
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody> <tr>
+                <td> <table
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody> <tr
+                class="ms-WPHeader"> <td
+                align="left" class="ms-wpTdSpace">&nbsp;</td>
+                <td title="Intellectual/Developmental Disability-Main"
+                id="WebPartTitleWPQ2" class="ms-WPHeaderTd"><h3
+                style="text-align:justify;" class="ms-standardheader ms-WPTitle"><a
+                accesskey="W" href="/Lists/IntellectualDevelopmental%20DisabilityMain"><nobr><span>Intellectual/Developmental
+                Disability-Main</span><span id="WebPartCaptionWPQ2"></span></nobr></a></h3></td>
+                <td class="ms-WPHeaderTdSelection"><span
+                class="ms-WPHeaderTdSelSpan"><input type="checkbox"
+                id="SelectionCbxWebPartWPQ2" class="ms-WPHeaderCbxHidden"
+                title="Select or deselect Intellectual/Developmental Disability-Main Web Part" onblur="this.className=ms-WPHeaderCbxHidden"
+                onfocus="this.className=ms-WPHeaderCbxVisible" onkeyup="WpCbxKeyHandler(event);"
+                onmouseup="WpCbxSelect(event); return false;" onclick="TrapMenuClick(event); return false;"></span></td>
+                <td align="left"
+                class="ms-wpTdSpace">&nbsp;</td> </tr>
+                </tbody> </table>
+                </td> </tr>
+                <tr> <td
+                class="" valign="top">
+                <div webpartid="44f8408c-b42f-43ac-9908-a5de6870fb54"
+                webpartid2="b689dc9b-1bed-4c70-97c8-ed3ef861c7a1" haspers="false"
+                id="WebPartWPQ2" width="100%"
+                class="ms-wpContentDivSpace smallFont" allowremove="false"
+                allowdelete="false" allowexport="false"
+                style=""> <table
+                width="100%" cellpadding="0"
+                cellspacing="0" border="0"
+                xmlns: x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal">
+                <script type="text/javascript">
+                ctx =
+                new ContextInfo();
+
+                var existingHash
+                = ;
+                if (window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    &).replace(/&&/g,
+                    -); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if
+                    ("" ==
+                    serverFilterRootFolder &&
+                    "" !=
+                    currentRootFolder) {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    ; window.location.search
+                    = ?
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{DE5F3DC0-DDE5-4F7F-AE9F-E554248E60F5}";
+                ctx.view =
+                "{44F8408C-B42F-43AC-9908-A5DE6870FB54}"; ctx.listUrlDir
+                = "/Lists/IntellectualDevelopmental%20DisabilityMain";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Intellectual\u002fDevelopmental Disability-Main";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={DE5F3DC0-DDE5-4F7F-AE9F-E554248E60F5}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={DE5F3DC0-DDE5-4F7F-AE9F-E554248E60F5}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                64; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{44F8408C-B42F-43AC-9908-A5DE6870FB54}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{44F8408C-B42F-43AC-9908-A5DE6870FB54}" ]
+                = 64;
+                ctx.CurrentUserId =
+                -1; ctx64
+                = ctx;
+                g_ctxDict [ ctx64 ]
+                = ctx;
+                </script> <tbody><tr><td><table
+                id="{DE5F3DC0-DDE5-4F7F-AE9F-E554248E60F5}-{44F8408C-B42F-43AC-9908-A5DE6870FB54}" summary="Intellectual/Developmental Disability-Main "
+                o: webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;List={DE5F3DC0-DDE5-4F7F-AE9F-E554248E60F5}&amp;View={44F8408C-B42F-43AC-9908-A5DE6870FB54}"
+                class="ms-summarycustombody" style="margin-bottom: 5px;"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : o="urn:schemas-microsoft-com:office:office"><tbody><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="                                                                OnLink(this)" href="http://www.dpw.state.pa.us/foradults/intellectualdisabilitiesservices/index.htm">Intellectual
+                Disability Services
+                in PA</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="                                                                OnLink(this)" href="http://www.dpw.state.pa.us/foradults/intellectualdisabilitiesservices/servicesandsupports/index.htm">Where
+                to start
+                - Services
+                and Supports</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="                                                                OnLink(this)" href="http://www.dpw.state.pa.us/dpworganization/officeofdevelopmentalprograms/index.htm">Office
+                of Developmental
+                Programs in
+                PA</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="                                                                OnLink(this)"
+                href="http://www.dpw.state.pa.us/foradults/autismservices/index.htm">Autism Services</a></td></tr></tbody></table></td></tr></tbody>
+                </table> </div>
+                </td> </tr>
+                </tbody> </table>
+                </td> </tr>
+                </tbody> </table>
+                </div> <div
+                id="vid_b689dc9b-1bed-4c70-97c8-ed3ef861c7a1" class="smallFont"
+                style="display:none"></div> </div>
+                <br> </div>
+                <div class="smallFont">
+                <div class="ms-rtestate-read ms-rte-wpbox smallFont">
+                <div class="ms-rtestate-read ad747aed-dfd5-4b7c-a52c-07a22f990e13 smallFont"
+                id="div_ad747aed-dfd5-4b7c-a52c-07a22f990e13"></div> <div
+                id="vid_ad747aed-dfd5-4b7c-a52c-07a22f990e13" class="smallFont"
+                style="display:none"></div> </div>
+                <br> </div>
+                </div>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

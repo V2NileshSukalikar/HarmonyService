@@ -3,7 +3,7 @@
         "Oid": 2079,
         "Name": "V2 Solutions Pvt. Ltd.",
         "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
-        "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
+        "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
         "Title": "V2 Solutions Pvt. Ltd.",
         "IsActive": true,
         "Menu": [
@@ -37,13 +37,28 @@
         }
     ],
     "s": {
-        "Orientation": "2,2,2,3",
+        "Orientation": [
+            {
+                "Type": "Number",
+                "Order": [ "1"]
+            },
+            {
+                "Type": "Number",
+                "Order": [ "5" ]
+            },
+
+            {
+                "Type": "Number",
+                "Order": [ "1" ]
+            }
+
+        ],
         "isCacheble": true,
         "Data": [
             {
                 "Type": "Search",
                 "Oid": 1035,
-                "Search": [ 0,1,2],
+                "Search": [ 0, 1, 2 ],
                 "Views": 65,
                 "Name": "Welcome",
                 "Descr": "<h2>This is our default template.</h2> </br> Welcome  to our  site.Smile",
@@ -99,25 +114,25 @@
                 "Type": "COC",
                 "Orientation": 3,
                 "Data": [
-                {
-                    "Name": "page1",
-                    "Id": 2079,
-                    "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-                    "Title": "Home"
-                },
-                {
-                    "Name": "ViewName",
-                    "Id": 2081,
-                    "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-                    "Title": "Page 67"
-                },
-                {
-                    "Name": "ViewName",
-                    "Id": 2082,
-                    "Logo": "http://localhost:53142/Images/V2-Solutions.jpg",
-                    "Title": "Page 88"
-                }
-            ],
+                    {
+                        "Name": "page1",
+                        "Id": 2079,
+                        "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
+                        "Title": "Home"
+                    },
+                    {
+                        "Name": "ViewName",
+                        "Id": 2081,
+                        "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
+                        "Title": "Page 67"
+                    },
+                    {
+                        "Name": "ViewName",
+                        "Id": 2082,
+                        "Logo": "http://harmonyservice/Images/V2-Solutions.jpg",
+                        "Title": "Page 88"
+                    }
+                ],
                 "Oid": 1035,
                 "Views": 65,
                 "Name": "Welcome",
@@ -161,7 +176,7 @@
                 "IsActive ": true,
                 "Sequence": null
             }
-            
+
         ]
     }
 }

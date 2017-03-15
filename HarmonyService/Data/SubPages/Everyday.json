@@ -1,0 +1,588 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div class="ms-rte-layoutszone-inner smallFont"
+                role="textbox" aria-autocomplete="both"
+                aria-haspopup="true" aria-multiline="true"><style>
+                .ExternalClass7CD0B8F0EDCF4F9CA21604004FE325CA .ms-viewheadertr
+                { display: none; }
+                </style> <div
+                class="title clearfix smallFont"><h1>Everyday Needs
+                : Food,
+                Housing &amp;
+                Transportation </h1></div>
+                <br><div class="ms-rtestate-read ms-rte-wpbox smallFont"><div
+                class="ms-rtestate-read 40c00563-2b1a-4a7a-b4cf-ee56a40332da smallFont" id="div_40c00563-2b1a-4a7a-b4cf-ee56a40332da"><table
+                style="width:100%" cellpadding="0"
+                cellspacing="0"><tbody><tr><td id="MSOZoneCell_WebPartWPQ2"
+                webpartwpq2_relatedlistid="{a946ba8a-b044-43bf-8107-c1fefc04bfb1}" webpartwpq2_webpartstoragekey="e5083d33-a76f-4fb7-bf99-696ae9445ad2"
+                valign="top" class="s4-wpcell"
+                onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)"><table
+                class="s4-wpTopTable" border="0"
+                cellpadding="0" cellspacing="0"
+                width="100%"> <tbody><tr>
+                <td valign="top"><div
+                webpartid="e5083d33-a76f-4fb7-bf99-696ae9445ad2" webpartid2="40c00563-2b1a-4a7a-b4cf-ee56a40332da"
+                haspers="false" id="WebPartWPQ2"
+                width="100%" allowremove="false"
+                allowdelete="false" style=""
+                class="smallFont"><table width="100%"
+                cellpadding="0" cellspacing="0"
+                border="0" xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"><script
+                type="text/javascript"> ctx
+                = new
+                ContextInfo(); var
+                existingHash =
+                \u0027\u0027; if(window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    \u0027&\u0027).replace(/&&/g,
+                    \u0027-\u0027); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if(""
+                    == serverFilterRootFolder
+                    && ""
+                    != currentRootFolder)
+                    {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    \u0027\u0027; window.location.search
+                    = \u0027?\u0027
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{A946BA8A-B044-43BF-8107-C1FEFC04BFB1}";
+                ctx.view =
+                "{E5083D33-A76F-4FB7-BF99-696AE9445AD2}"; ctx.listUrlDir
+                = "/Lists/Everyday%20Needs%20Food%20Housing%20%20Transportation%20%20Main";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Everyday Needs: Food, Housing \u0026 Transportation - Main";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={A946BA8A-B044-43BF-8107-C1FEFC04BFB1}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={A946BA8A-B044-43BF-8107-C1FEFC04BFB1}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                89; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{E5083D33-A76F-4FB7-BF99-696AE9445AD2}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{E5083D33-A76F-4FB7-BF99-696AE9445AD2}" ]
+                = 89;
+                ctx.CurrentUserId =
+                -1; ctx89
+                = ctx;
+                g_ctxDict [ \u0027ctx89\u0027 ]
+                = ctx;
+                </script><tbody><tr><td><table id="{A946BA8A-B044-43BF-8107-C1FEFC04BFB1}-{E5083D33-A76F-4FB7-BF99-696AE9445AD2}"
+                summary="Everyday Needs: Food, Housing &amp; Transportation - Main " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;List={A946BA8A-B044-43BF-8107-C1FEFC04BFB1}&amp;View={E5083D33-A76F-4FB7-BF99-696AE9445AD2}"
+                class="ms-summarycustombody" style="margin-bottom: 5px;"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : o="urn:schemas-microsoft-com:office:office"><tbody><tr><td
+                style="padding-bottom: 5px" class="ms-vb">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.refersoftware.com/nmdb/">Center
+                for Development
+                and Disability
+                Information Network</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/pdf_files/PAC_Issue_Papers/PAC_Housing_Issue_Paper.pdf">Facts
+                &amp; Figures
+                About Housing
+                in New
+                Mexico</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.newmexico.gov/online_services.php">NM Online
+                Services: Information
+                and Services</a></td></tr></tbody></table></td></tr></tbody></table></div></td>
+                </tr> </tbody></table></td></tr></tbody></table></div><div
+                style="display:none" id="vid_40c00563-2b1a-4a7a-b4cf-ee56a40332da"
+                class="smallFont"></div></div> <div
+                class="ms-rtestate-read ms-rte-wpbox smallFont"><div class="ms-rtestate-read 1c0f1f66-3ddc-42d3-910d-18726d4b72fd smallFont"
+                id="div_1c0f1f66-3ddc-42d3-910d-18726d4b72fd"><table style="width:100%"
+                cellpadding="0" cellspacing="0"><tbody><tr><td
+                id="MSOZoneCell_WebPartWPQ3" webpartwpq3_relatedlistid="{28ebfd19-f475-408e-ab11-05548ccebf85}"
+                webpartwpq3_webpartstoragekey="49119b72-857b-40e6-88db-7f7c8d423be8" valign="top"
+                class="s4-wpcell" onkeyup="WpKeyUp(event)"
+                onmouseup="WpClick(event)"><table class="s4-wpTopTable"
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody><tr> <td
+                valign="top"><div webpartid="49119b72-857b-40e6-88db-7f7c8d423be8"
+                webpartid2="1c0f1f66-3ddc-42d3-910d-18726d4b72fd" haspers="false"
+                id="WebPartWPQ3" width="100%"
+                allowremove="false" allowdelete="false"
+                style="" class="smallFont"><script
+                xmlns: x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal">
+                try {
+                    // remove the click handler of the containing element
+                    $get(\u0027MSOZoneCell_WebPartWPQ3\u0027).onmouseup =
+                    function ()
+                    { }
+                    ;
+                    // remove the TD element containing the wp selection checkbox in the wp\u0027s header
+                    $get(\u0027SelectionCbxWebPartWPQ3\u0027).parentNode.parentNode.style.display
+                    = \u0027none\u0027;
+                }
+                catch (ex)
+                { }
+                </script><table width="100%"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"
+                xmlns: o="urn:schemas-microsoft-com:office:office"><script
+                type="text/javascript"> ctx
+                = new
+                ContextInfo(); var
+                existingHash =
+                \u0027\u0027; if(window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    \u0027&\u0027).replace(/&&/g,
+                    \u0027-\u0027); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if(""
+                    == serverFilterRootFolder
+                    && ""
+                    != currentRootFolder)
+                    {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    \u0027\u0027; window.location.search
+                    = \u0027?\u0027
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{28EBFD19-F475-408E-AB11-05548CCEBF85}";
+                ctx.view =
+                "{49119B72-857B-40E6-88DB-7F7C8D423BE8}"; ctx.listUrlDir
+                = "/Lists/Everyday%20Needs%20Food%20Housing%20%20Transportation%20%20Subca";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "1";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Everyday Needs: Food, Housing \u0026 Transportation - Subcategory";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={28EBFD19-F475-408E-AB11-05548CCEBF85}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={28EBFD19-F475-408E-AB11-05548CCEBF85}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                90; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{49119B72-857B-40E6-88DB-7F7C8D423BE8}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{49119B72-857B-40E6-88DB-7F7C8D423BE8}" ]
+                = 90;
+                ctx.CurrentUserId =
+                -1; ctx90
+                = ctx;
+                g_ctxDict [ \u0027ctx90\u0027 ]
+                = ctx;
+                </script><tbody><tr><td><iframe src="javascript:false;"
+                id="FilterIframe90" name="FilterIframe90"
+                style="display:none" height="0"
+                width="0" filterlink="?"></iframe><table
+                summary="Everyday Needs: Food, Housing &amp; Transportation - Subcategory " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;View={49119B72-857B-40E6-88DB-7F7C8D423BE8}"
+                width="100%" border="0"
+                cellspacing="0" dir="none"
+                onmouseover="EnsureSelectionHandler(event,this,90)" cellpadding="1"
+                id="{28EBFD19-F475-408E-AB11-05548CCEBF85}-{49119B72-857B-40E6-88DB-7F7C8D423BE8}" class="ms-listviewtable"><tbody><tr
+                valign="top" class="ms-viewheadertr ms-vhltr"><th
+                nowrap="" scope="col"
+                onmouseover="OnChildColumn(this)" class="ms-vh2"><div
+                sortable="" sortdisable=""
+                filterdisable="" filterable="FALSE"
+                filterdisablemessage="" name="URLNoMenu"
+                ctxnum="90" displayname="URL"
+                fieldtype="Computed" resulttype=""
+                sortfields="View={49119b72-857b-40e6-88db-7f7c8d423be8}&amp;SortField=URLNoMenu&amp;SortDir=Asc" class="ms-vh-div smallFont"><a
+                id="diidSortURLNoMenu" onfocus="OnFocusFilter(this)"
+                href="javascript:" onclick="javascript:return OnClickFilter(this,event);"
+                sortingfields="View={49119b72-857b-40e6-88db-7f7c8d423be8}&amp;SortField=URLNoMenu&amp;SortDir=Asc">URL<img src="/_layouts/images/blank.gif"
+                class="ms-hidden" border="0"
+                width="1" height="1"
+                alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/images/blank.gif"
+                alt="" border="0"><img
+                src="/_layouts/images/blank.gif" border="0"
+                alt=""></div><div class="s4-ctx smallFont"><span>&nbsp;</span><a
+                onfocus="OnChildColumn(this.parentNode.parentNode); return false;" onclick="PopMenuFromChevron(event); return false;"
+                href="javascript:;" title="Open Menu"></a><span>&nbsp;</span></div></th></tr><input
+                type="hidden" id="GroupByColFlag"><input
+                type="hidden" id="GroupByWebPartID90"
+                webpartid="{49119B72-857B-40E6-88DB-7F7C8D423BE8}"></tbody><tbody id="GroupByCol{49119B72-857B-40E6-88DB-7F7C8D423BE8}"><tr
+                id="GroupByCol90" querystring="?"></tr></tbody><tbody
+                id="titl90-1_" groupstring="%3B%23Food%20%26%20Nutrition%20Needs%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(\u002790-1_\u0027, \u0027img_90-1_\u0027,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_90-1_">&nbsp;subcategory</a>
+                : Food
+                &amp; Nutrition
+                Needs<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(10)
+                </span></td></tr></tbody><tbody id="tbod90-1__"
+                isloaded="true"></tbody><tbody><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.hsd.state.nm.us/isd/tefap.html">Emergency Food
+                Assistance &amp;
+                Food Banks</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/pdf_files/PAC_Issue_Papers/PAC_Health_and_Independence_Issue_Paper.pdf">Facts
+                &amp; Figures
+                About Health
+                and Independence</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/pdf_files/PAC_Issue_Papers/PAC_Hunger_Issue_Paper.pdf">Facts
+                &amp; Figures
+                About Hunger
+                in New
+                Mexico</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.newmexicoresources.org/area_assistance.cfm?pageID=3&amp;MainPage=\u0027yes\u0027">Food Programs
+                / Food
+                Stamps</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.mealcall.org/meals-on-wheels/nm/index.htm">Meals on
+                Wheels &amp;
+                Senior Meals
+                Programs</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.ncnmedd.com/nutrition.htm">NM Nutrition
+                Programs</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/nutrition-general.html">Nutrition Information
+                from the
+                State of
+                New Mexico</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.mealcall.org/definitions.htm">Senior
+                Center Nutrition
+                Programs</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.ncnmedd.com/aaaprograms%26services.htm">Senior Centers
+                in Your
+                Area</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://nutrition.tufts.edu/1197972031385/Nutrition-Page-nl2w_1198058402614.html">Senior Food
+                Pyramid</a></td></tr></tbody><tbody id="titl90-2_"
+                groupstring="%3B%23Home%20Living%20Resources%3B%23"><tr id="group0"><td
+                colspan="100" nowrap=""
+                class="ms-gb"><a href="javascript:"
+                onclick="javascript:ExpCollGroup(\u002790-2_\u0027, \u0027img_90-2_\u0027,event, false);return false;"><img src="/_layouts/images/minus.gif"
+                border="0" alt="collapse"
+                id="img_90-2_">&nbsp;subcategory</a>: Home
+                Living Resources<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(3) </span></td></tr></tbody><tbody
+                id="tbod90-2__" isloaded="true"></tbody><tbody><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.newmexicoresources.org/area_assistance.cfm?pageID=14&amp;MainPage=\u0027yes\u0027">Home
+                Heating Assistance</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmag.gov/office/student/renting.aspx">New
+                Mexico Renters\u0027
+                Guide</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.eere.energy.gov/weatherization/apply.cfm">Weatherization &amp;
+                Low Income
+                Energy Programs</a></td></tr></tbody><tbody
+                id="titl90-3_" groupstring="%3B%23Home%20Modifications%2C%20Assistive%20Technology%20%26%20Adaptive%20Clothing%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(\u002790-3_\u0027, \u0027img_90-3_\u0027,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_90-3_">&nbsp;subcategory</a>
+                : Home
+                Modifications,
+                Assistive Technology
+                &amp; Adaptive
+                Clothing<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(4)
+                </span></td></tr></tbody><tbody id="tbod90-3__"
+                isloaded="true"></tbody><tbody><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://abledata.com/">AbleData.Com: A
+                Resource for
+                Assistive Technology</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.wheelchairnet.org/WCN_Living/Docs/clothes.html">Adaptive
+                Clothing Tips</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.abledata.com/abledata.cfm?pageid=89079&amp;ksectionid=19326">Assistive
+                Technology: Fact
+                Sheets (PDFs)</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.abilityhub.com">Frequently
+                Asked Question
+                : Assistive
+                Computer Technology</a></td></tr></tbody><tbody
+                id="titl90-4_" groupstring="%3B%23Long%2DTerm%20Care%20Facilities%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(\u002790-4_\u0027, \u0027img_90-4_\u0027,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_90-4_">&nbsp;subcategory</a>
+                : Long-Term
+                Care Facilities<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(6) </span></td></tr></tbody><tbody
+                id="tbod90-4__" isloaded="true"></tbody><tbody><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmhca.org/facilities">Beginning
+                the Search
+                for a
+                Long-Term Care
+                Facility</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/Ombudsman_bureau.html">New Mexico
+                State Long-Term
+                Care Ombudsman</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/Silvertips/Silver_Tips_Medicare_nursing_home_coverage.html">Nursing
+                Home Coverage
+                through Medicare</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.medicare.gov/NHCompare/Include/DataSection/Questions/SearchCriteria.asp?version=default&amp;brower+IE%7C6%7CWinXP&amp;language=English&amp;defaultstatus=0&amp;pagelist=Home&amp;CookiesEnabledStatus=True">Quality
+                Standards of
+                Nursing Homes</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="/KnowledgeCenter/resident_rights_flyer.pdf">Resident
+                Rights</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/longterm.html">What are
+                Long-Term Services?</a></td></tr></tbody><tbody
+                id="titl90-5_" groupstring="%3B%23Mobility%20%26%20Transportation%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(\u002790-5_\u0027, \u0027img_90-5_\u0027,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_90-5_">&nbsp;subcategory</a>
+                : Mobility
+                &amp; Transportation<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(4) </span></td></tr></tbody><tbody
+                id="tbod90-5__" isloaded="true"></tbody><tbody><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://gcd.state.nm.us./parking.htm">Accessible
+                (Handicap) Parking</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/pdf_files/PAC_Issue_Papers/PAC_Transportation_Issue_Paper.pdf">Facts
+                &amp; Figures
+                About Transportation
+                in New
+                Mexico</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.cabq.gov/transit/index.html">Public Transportation
+                : Albuquerque</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.cabq.gov/transit/sunvan.html">Sun
+                Van: Transportation
+                for People
+                with Disabilities
+                in Albuquerque</a></td></tr></tbody><tbody
+                id="titl90-6_" groupstring="%3B%23Older%20Drivers%3A%20Issues%20%26%20Information%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(\u002790-6_\u0027, \u0027img_90-6_\u0027,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_90-6_">&nbsp;subcategory</a>
+                : Older
+                Drivers: Issues
+                &amp; Information<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(6) </span></td></tr></tbody><tbody
+                id="tbod90-6__" isloaded="true"></tbody><tbody><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.newmexico.gov/online_services.php">NM
+                Online Services
+                : Information
+                and Services</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.dmv.org/how-to-guides/senior-suggestions.php#tz_NM">Older
+                Drivers: Safety
+                Suggestions</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.dmv.org/how-to-guides/senior-driving.php#tz_NM">Older Drivers
+                : When
+                to Turn
+                Over the
+                Keys</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://assistedlivingway.com/w/safety/">Resources and
+                Informative Tips
+                on Senior
+                Safety and
+                Living</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.thehartford.com/talkwitholderdrivers/">Talking About
+                Safety Concerns
+                with Older
+                Drivers</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.mayoclinic.com/health/alzheimers/HO00046">What About
+                Driving with
+                Alzheimer\u0027s or
+                Dementia?</a></td></tr></tbody></table><script type="text/javascript">HideListViewRows("{28EBFD19-F475-408E-AB11-05548CCEBF85}-{49119B72-857B-40E6-88DB-7F7C8D423BE8}");</script></td></tr></tbody></table></div></td>
+                </tr> </tbody></table></td></tr></tbody></table></div><div
+                style="display:none" id="vid_1c0f1f66-3ddc-42d3-910d-18726d4b72fd"
+                class="smallFont"></div></div> </div>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

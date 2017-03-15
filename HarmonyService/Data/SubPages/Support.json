@@ -1,0 +1,600 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div class="ms-rte-layoutszone-inner smallFont"
+                role="textbox" aria-autocomplete="both"
+                aria-haspopup="true" aria-multiline="true">
+                <style> .ExternalClass9637D241E932415784B16F31EC6D9CF4
+                .ms-viewheadertr {
+                    display: none;
+                }
+                </style> <div
+                class="title clearfix smallFont"> <h1>
+                Support &amp;
+                Resources for
+                Caregivers </h1>
+                </div> <br><div
+                class="ms-rtestate-read ms-rte-wpbox smallFont"> <div
+                class="ms-rtestate-read 5583478b-e00d-4e48-964f-15a8c930394b smallFont" id="div_5583478b-e00d-4e48-964f-15a8c930394b">
+                <table style="width:100%"
+                cellpadding="0" cellspacing="0">
+                <tbody> <tr>
+                <td id="MSOZoneCell_WebPartWPQ2"
+                webpartwpq2_relatedlistid="{0f83692e-e4fe-4d9e-965a-00e054b68336}" webpartwpq2_webpartstoragekey="4f523152-f326-449b-a0e1-62e81f1cbbbe"
+                valign="top" class="s4-wpcell"
+                onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)">
+                <table class="s4-wpTopTable"
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody> <tr>
+                <td valign="top">
+                <div webpartid="4f523152-f326-449b-a0e1-62e81f1cbbbe"
+                webpartid2="5583478b-e00d-4e48-964f-15a8c930394b" haspers="false"
+                id="WebPartWPQ2" width="100%"
+                allowremove="false" allowdelete="false"
+                style="" class="smallFont">
+                <table width="100%"
+                cellpadding="0" cellspacing="0"
+                border="0" xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal">
+                <script type="text/javascript">
+                ctx =
+                new ContextInfo();
+
+                var existingHash
+                = ;
+                if (window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    &).replace(/&&/g,
+                    -); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if
+                    ("" ==
+                    serverFilterRootFolder &&
+                    "" !=
+                    currentRootFolder) {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    ; window.location.search
+                    = ?
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{0F83692E-E4FE-4D9E-965A-00E054B68336}";
+                ctx.view =
+                "{4F523152-F326-449B-A0E1-62E81F1CBBBE}"; ctx.listUrlDir
+                = "/Lists/Support%20%20Resources%20for%20Caregivers%20%20Main";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Support \u0026 Resources for Caregivers - Main";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={0F83692E-E4FE-4D9E-965A-00E054B68336}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={0F83692E-E4FE-4D9E-965A-00E054B68336}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                66; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{4F523152-F326-449B-A0E1-62E81F1CBBBE}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{4F523152-F326-449B-A0E1-62E81F1CBBBE}" ]
+                = 66;
+                ctx.CurrentUserId =
+                -1; ctx66
+                = ctx;
+                g_ctxDict [ ctx66 ]
+                = ctx;
+                </script> <tbody><tr><td><table
+                id="{0F83692E-E4FE-4D9E-965A-00E054B68336}-{4F523152-F326-449B-A0E1-62E81F1CBBBE}" summary="Support &amp; Resources for Caregivers - Main "
+                o: webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;List={0F83692E-E4FE-4D9E-965A-00E054B68336}&amp;View={4F523152-F326-449B-A0E1-62E81F1CBBBE}"
+                class="ms-summarycustombody" style="margin-bottom: 5px;"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : o="urn:schemas-microsoft-com:office:office"><tbody><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="                                                            OnLink(this)" href="/knowledgecenter/Benefits%20Counseling%20Desk%20Reference%202012.doc">A
+                Guide to
+                Public Benefits
+                for New
+                Mexicans</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="                                                            OnLink(this)"
+                href="http://www.ahaf.org">American Health
+                Assistance Foundation</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="                                                            OnLink(this)" href="http://www.abqjournal.com/health/support.pdf">Bernalillo
+                County Support
+                Groups</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="                                                            OnLink(this)"
+                href="http://www.refersoftware.com/nmdb/">Center for
+                Development and
+                Disability Information
+                Network</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="                                                            OnLink(this)"
+                href="http://www.nmaging.state.nm.us/pdf_files/PAC_Issue_Papers/PAC_Family_Caregiving_Issue_Paper.pdf">Facts &amp;
+                Figures About
+                Family Caregiving</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="                                                            OnLink(this)" href="http://www.nfcacares.org/who_are_family_caregivers/what_is_family_caregiving.cfm">Family
+                Caregiving: What
+                does it
+                Mean?</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="                                                            OnLink(this)"
+                href="http://www.healthcarecoach.com/resources/index.php?view=detail&amp;id=375&amp;node=4">Getting Time
+                Off Work
+                to Care
+                for Family
+                Members</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="                                                            OnLink(this)"
+                href="http://www.nami.org/">National Alliance
+                on Mental
+                Illness -
+                NAMI</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="                                                            OnLink(this)"
+                href="http://www.lgbtagingcenter.org/">National Resource
+                Center on
+                LGBT Elders</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="                                                            OnLink(this)" href="http://www.ageinplace.org/">What
+                is Aging
+                in Place?</a></td></tr></tbody></table></td></tr></tbody>
+                </table> </div>
+                </td> </tr>
+                </tbody> </table>
+                </td> </tr>
+                </tbody> </table>
+                </div><div style="display:none"
+                id="vid_5583478b-e00d-4e48-964f-15a8c930394b" class="smallFont"></div>
+                </div> <div
+                class="ms-rtestate-read ms-rte-wpbox smallFont"> <div
+                class="ms-rtestate-read 90c4d8f4-cce6-48e6-a394-4012268315fb smallFont" id="div_90c4d8f4-cce6-48e6-a394-4012268315fb">
+                <table style="width:100%"
+                cellpadding="0" cellspacing="0">
+                <tbody> <tr>
+                <td id="MSOZoneCell_WebPartWPQ3"
+                webpartwpq3_relatedlistid="{bd19f2bf-9e8e-455b-9484-e183734d00ab}" webpartwpq3_webpartstoragekey="a93369a5-94de-4ffd-a8d2-0d61d29338cf"
+                valign="top" class="s4-wpcell"
+                onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)">
+                <table class="s4-wpTopTable"
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody> <tr>
+                <td valign="top">
+                <div webpartid="a93369a5-94de-4ffd-a8d2-0d61d29338cf"
+                webpartid2="90c4d8f4-cce6-48e6-a394-4012268315fb" haspers="false"
+                id="WebPartWPQ3" width="100%"
+                allowremove="false" allowdelete="false"
+                style="" class="smallFont">
+                <script xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal">
+                try {
+                    // remove the click handler of the containing element
+                    $get(MSOZoneCell_WebPartWPQ3).onmouseup =
+                    function ()
+                    { }
+                    ;
+                    // remove the TD element containing the wp selection checkbox in the wps header
+                    $get(SelectionCbxWebPartWPQ3).parentNode.parentNode.style.display
+                    = none;
+                }
+                catch (ex)
+                { }
+                </script><table width="100%"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"
+                xmlns: o="urn:schemas-microsoft-com:office:office">
+                <script type="text/javascript">
+                ctx =
+                new ContextInfo();
+
+                var existingHash
+                = ;
+                if (window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    &).replace(/&&/g,
+                    -); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if
+                    ("" ==
+                    serverFilterRootFolder &&
+                    "" !=
+                    currentRootFolder) {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    ; window.location.search
+                    = ?
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{BD19F2BF-9E8E-455B-9484-E183734D00AB}";
+                ctx.view =
+                "{A93369A5-94DE-4FFD-A8D2-0D61D29338CF}"; ctx.listUrlDir
+                = "/Lists/Support%20%20Resources%20for%20Caregivers%20%20Subcategory";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "1";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Support \u0026 Resources for Caregivers - Subcategory";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={BD19F2BF-9E8E-455B-9484-E183734D00AB}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={BD19F2BF-9E8E-455B-9484-E183734D00AB}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                67; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{A93369A5-94DE-4FFD-A8D2-0D61D29338CF}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{A93369A5-94DE-4FFD-A8D2-0D61D29338CF}" ]
+                = 67;
+                ctx.CurrentUserId =
+                -1; ctx67
+                = ctx;
+                g_ctxDict [ ctx67 ]
+                = ctx;
+                </script> <tbody>
+                <tr> <td>
+                <iframe src="javascript:false;"
+                id="FilterIframe67" name="FilterIframe67"
+                style="display:none" height="0"
+                width="0" filterlink="?"></iframe><table
+                summary="Support &amp; Resources for Caregivers - Subcategory " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;View={A93369A5-94DE-4FFD-A8D2-0D61D29338CF}"
+                width="100%" border="0"
+                cellspacing="0" dir="none"
+                onmouseover="                                                        EnsureSelectionHandler(event, this, 67)" cellpadding="1"
+                id="{BD19F2BF-9E8E-455B-9484-E183734D00AB}-{A93369A5-94DE-4FFD-A8D2-0D61D29338CF}" class="ms-listviewtable"
+                handledeleteinit="true"> <tbody><tr
+                valign="top" class="ms-viewheadertr ms-vhltr"><th
+                nowrap="" scope="col"
+                onmouseover="                                                        OnChildColumn(this)" class="ms-vh2"><div
+                sortable="" sortdisable=""
+                filterdisable="" filterable="FALSE"
+                filterdisablemessage="" name="URLNoMenu"
+                ctxnum="67" displayname="URL"
+                fieldtype="Computed" resulttype=""
+                sortfields="View={a93369a5-94de-4ffd-a8d2-0d61d29338cf}&amp;SortField=URLNoMenu&amp;SortDir=Asc" class="ms-vh-div smallFont"><a
+                id="diidSortURLNoMenu" onfocus="                                                        OnFocusFilter(this)"
+                href="javascript:" onclick="                                                        javascript: return OnClickFilter(this, event);"
+                sortingfields="View={a93369a5-94de-4ffd-a8d2-0d61d29338cf}&amp;SortField=URLNoMenu&amp;SortDir=Asc">URL<img src="/_layouts/images/blank.gif"
+                class="ms-hidden" border="0"
+                width="1" height="1"
+                alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/images/blank.gif"
+                alt="" border="0"><img
+                src="/_layouts/images/blank.gif" border="0"
+                alt=""></div><div class="s4-ctx smallFont"><span>&nbsp;</span><a
+                onfocus="                                                        OnChildColumn(this.parentNode.parentNode); return false;" onclick="                                                        PopMenuFromChevron(event); return false;"
+                href="javascript:;" title="Open Menu"></a><span>&nbsp;</span></div></th></tr><input
+                type="hidden" id="GroupByColFlag"><input
+                type="hidden" id="GroupByWebPartID67"
+                webpartid="{A93369A5-94DE-4FFD-A8D2-0D61D29338CF}"></tbody> <tbody
+                id="GroupByCol{A93369A5-94DE-4FFD-A8D2-0D61D29338CF}"><tr id="GroupByCol67"
+                querystring="?"></tr></tbody> <tbody
+                id="titl67-1_" groupstring="%3B%23Caregiver%20Resources%3B%23">
+                <tr id="group0">
+                <td colspan="100"
+                nowrap="" class="ms-gb">
+                <a href="javascript:"
+                onclick="                                                        javascript: ExpCollGroup(67-1_, img_67-1_, event, false); return false;"><img src="/_layouts/images/minus.gif"
+                border="0" alt="collapse"
+                id="img_67-1_">&nbsp;Subcategory</a>: Caregiver
+                Resources<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">
+                &nbsp;‎(19) </span>
+                </td> </tr>
+                </tbody> <tbody
+                id="tbod67-1__" isloaded="true"></tbody>
+                <tbody><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nfcacares.org/pdfs/10_tips.pdf">10 Tips
+                for Family
+                Caregivers</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.ahaf.org">American Health
+                Assistance Foundation</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.boomerater.com/">Boomrater
+                : A
+                free online
+                advice network
+                for Baby
+                Boomers.</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmag.gov/office/Divisions/MF/elder.aspx">Caregiver Tools</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="/knowledgecenter/Caregiving%20and%20Veterans.doc">Caregiving
+                and Veterans</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.cdc.gov/vaccines/">CDC
+                - Immunizations/Vaccine
+                Information and
+                Facts</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.refersoftware.com/nmdb/">Center for
+                Development and
+                Disability Information
+                Network</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nia.nih.gov/Alzheimers/Publications/coping.htm">Coping with
+                Emotions &amp;
+                Stress: A
+                Resource List
+                for Caregivers</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.govbenefits.gov/govbenefits_en.portal">GovBenefits.gov
+                - Information
+                on over
+                1,
+                000 benefit
+                and assistance
+                programs</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.mayoclinic.com/health/alzheimers/HQ00216">How do
+                I Help
+                Children to
+                Understand?</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nfcacares.org/index.cfm">National Family
+                Caregivers Association
+                Homepage</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.lgbtagingcenter.org/">National Resource
+                Center on
+                LGBT Elders</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.aidsinfonet.org/">NM
+                Aids Infonet</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://alzonline.phhp.ufl.edu/en/topics/#T_Prevention">Online
+                Caregivers Reading
+                Room</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.ncea.aoa.gov/NCEAroot/Main_Site/pdf/family/caregiver.pdf">Preventing Elder
+                Abuse by
+                Caregivers</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://assistedlivingway.com/w/safety/">Resources and
+                Informative Tips
+                on Senior
+                Safety and
+                Living</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="/knowledgecenter/Supporting%20Caregivers_%20Veterans.doc">Supporting Caregivers
+                As They
+                Support Our
+                Veterans</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/talk.html">Tips from
+                the NM
+                Aging &amp;
+                Long Term
+                Services Department</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.caregiver.va.gov/index.asp">VA
+                Caregiver Support
+                Resources and
+                Information</a></td></tr></tbody> <tbody
+                id="titl67-2_" groupstring="%3B%23remove%3B%23">
+                <tr id="group0">
+                <td colspan="100"
+                nowrap="" class="ms-gb">
+                <a href="javascript:"
+                onclick="javascript:ExpCollGroup(67-2_, img_67-2_,event, false);return false;"><img src="/_layouts/images/minus.gif"
+                border="0" alt="collapse"
+                id="img_67-2_">&nbsp;Subcategory</a>: remove<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;"> &nbsp;‎(1)
+                </span> </td>
+                </tr> </tbody>
+                <tbody id="tbod67-2__"
+                isloaded="true"></tbody> <tbody><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nlm.nih.gov/medlineplus/bereavement.html">What
+                is Bereavement?</a></td></tr></tbody>
+                <tbody id="titl67-3_"
+                groupstring="%3B%23Respite%20Care%3B%23"> <tr
+                id="group0"> <td
+                colspan="100" nowrap=""
+                class="ms-gb"> <a
+                href="javascript:" onclick="javascript:ExpCollGroup(67-3_, img_67-3_,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_67-3_">&nbsp;Subcategory</a>
+                : Respite
+                Care<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">
+                &nbsp;‎(1) </span>
+                </td> </tr>
+                </tbody> <tbody
+                id="tbod67-3__" isloaded="true"></tbody>
+                <tbody><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://shareyourcare.org/">Share Your
+                Care Respite
+                Services</a></td></tr></tbody> </table>
+                <script type="text/javascript">HideListViewRows("{BD19F2BF-9E8E-455B-9484-E183734D00AB}-{A93369A5-94DE-4FFD-A8D2-0D61D29338CF}");</script>
+                </td> </tr>
+                </tbody> </table>
+                </div> </td>
+                </tr> </tbody>
+                </table> </td>
+                </tr> </tbody>
+                </table> </div><div
+                style="display:none" id="vid_90c4d8f4-cce6-48e6-a394-4012268315fb"
+                class="smallFont"></div> </div>
+                </div>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

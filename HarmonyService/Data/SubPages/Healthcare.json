@@ -1,0 +1,654 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div class="ms-rte-layoutszone-inner smallFont"
+                role="textbox" aria-autocomplete="both"
+                aria-haspopup="true" aria-multiline="true"><style>
+                .ExternalClass7A5B220E43514E308EAEC9B5C9C2D36F .ms-viewheadertr
+                { display: none; }
+                </style> <div
+                class="title clearfix smallFont"><h1>Healthcare Questions
+                Answered </h1></div>
+                <br><div class="ms-rtestate-read ms-rte-wpbox smallFont"><div
+                id="div_602f7ece-ce5d-4f95-910f-3a94fd2f3334" class="ms-rtestate-notify  ms-rtestate-read 602f7ece-ce5d-4f95-910f-3a94fd2f3334 smallFont"><table
+                style="width:100%" cellpadding="0"
+                cellspacing="0"><tbody><tr><td id="MSOZoneCell_WebPartWPQ2"
+                webpartwpq2_relatedlistid="{b47337a0-f5d7-4128-bdd3-1510f0408c6c}" webpartwpq2_webpartstoragekey="34e0c504-6c4e-4b7c-96f7-eec64f241dc1"
+                valign="top" class="s4-wpcell"
+                onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)"><table
+                class="s4-wpTopTable" border="0"
+                cellpadding="0" cellspacing="0"
+                width="100%"> <tbody><tr>
+                <td valign="top"><div
+                webpartid="34e0c504-6c4e-4b7c-96f7-eec64f241dc1" webpartid2="602f7ece-ce5d-4f95-910f-3a94fd2f3334"
+                haspers="false" id="WebPartWPQ2"
+                width="100%" allowremove="false"
+                allowdelete="false" style=""
+                class="smallFont"><table width="100%"
+                cellpadding="0" cellspacing="0"
+                border="0" xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"><script
+                type="text/javascript"> ctx
+                = new
+                ContextInfo(); var
+                existingHash =
+                \u0027\u0027; if(window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    \u0027&\u0027).replace(/&&/g,
+                    \u0027-\u0027); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if(""
+                    == serverFilterRootFolder
+                    && ""
+                    != currentRootFolder)
+                    {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    \u0027\u0027; window.location.search
+                    = \u0027?\u0027
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{B47337A0-F5D7-4128-BDD3-1510F0408C6C}";
+                ctx.view =
+                "{34E0C504-6C4E-4B7C-96F7-EEC64F241DC1}"; ctx.listUrlDir
+                = "/Lists/Healthcare%20Questions%20Answered%20%20Main";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Healthcare Questions Answered - Main";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={B47337A0-F5D7-4128-BDD3-1510F0408C6C}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={B47337A0-F5D7-4128-BDD3-1510F0408C6C}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                83; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{34E0C504-6C4E-4B7C-96F7-EEC64F241DC1}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{34E0C504-6C4E-4B7C-96F7-EEC64F241DC1}" ]
+                = 83;
+                ctx.CurrentUserId =
+                -1; ctx83
+                = ctx;
+                g_ctxDict [ \u0027ctx83\u0027 ]
+                = ctx;
+                </script><tbody><tr><td><table id="{B47337A0-F5D7-4128-BDD3-1510F0408C6C}-{34E0C504-6C4E-4B7C-96F7-EEC64F241DC1}"
+                summary="Healthcare Questions Answered - Main " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;List={B47337A0-F5D7-4128-BDD3-1510F0408C6C}&amp;View={34E0C504-6C4E-4B7C-96F7-EEC64F241DC1}"
+                class="ms-summarycustombody" style="margin-bottom: 5px;"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : o="urn:schemas-microsoft-com:office:office"><tbody><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="/knowledgecenter/Benefits%20Counseling%20Desk%20Reference%202012.doc">A
+                Guide to
+                Public Benefits
+                for New
+                Mexicans</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.ahaf.org">American Health
+                Assistance Foundation</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.boomerater.com/">Boomrater
+                : A
+                free online
+                advice network
+                for Baby
+                Boomers.</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.nlm.nih.gov/medlineplus/mplusdictionary.html">Easy to
+                Use Medical
+                Dictionary</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.healthcare.gov/">Healthcare: Explore
+                Your Healthcare
+                Options</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.mymedicarecommunity.org/">Medicare Tips
+                &amp; Resources</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.newmexicoresources.org/pages.cfm?contentID=51&amp;pageID=13&amp;Subpages=yes">New
+                Mexico Health
+                Care Programs</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.aidsinfonet.org/">NM
+                Aids Infonet</a></td></tr></tbody></table></td></tr></tbody></table></div></td>
+                </tr> </tbody></table></td></tr></tbody></table></div>
+                <div class="smallFont"
+                id="vid_602f7ece-ce5d-4f95-910f-3a94fd2f3334" style="display:none"></div></div>
+
+
+                <div class="ms-rtestate-read ms-rte-wpbox smallFont"
+                unselectable="on"><div id="div_7c55928e-5e99-436a-ad43-42dc9c21bcc3"
+                class="ms-rtestate-notify  ms-rtestate-read 7c55928e-5e99-436a-ad43-42dc9c21bcc3 smallFont" unselectable="on"><table
+                style="width:100%" cellpadding="0"
+                cellspacing="0"><tbody><tr><td id="MSOZoneCell_WebPartWPQ3"
+                webpartwpq3_relatedlistid="{e4dee41a-934f-4e5d-8895-5f152656b0ba}" webpartwpq3_webpartstoragekey="79a887e1-567d-4d18-9929-62b2a20b266d"
+                valign="top" class="s4-wpcell"
+                onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)"><table
+                class="s4-wpTopTable" border="0"
+                cellpadding="0" cellspacing="0"
+                width="100%"> <tbody><tr>
+                <td valign="top"><div
+                webpartid="79a887e1-567d-4d18-9929-62b2a20b266d" webpartid2="7c55928e-5e99-436a-ad43-42dc9c21bcc3"
+                haspers="false" id="WebPartWPQ3"
+                width="100%" allowremove="false"
+                allowdelete="false" style=""
+                class="smallFont"><script xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal">
+                try {
+                    // remove the click handler of the containing element
+                    $get(\u0027MSOZoneCell_WebPartWPQ3\u0027).onmouseup =
+                    function ()
+                    { }
+                    ;
+                    // remove the TD element containing the wp selection checkbox in the wp\u0027s header
+                    $get(\u0027SelectionCbxWebPartWPQ3\u0027).parentNode.parentNode.style.display
+                    = \u0027none\u0027;
+                }
+                catch (ex)
+                { }
+                </script><table width="100%"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"
+                xmlns: o="urn:schemas-microsoft-com:office:office"><script
+                type="text/javascript"> ctx
+                = new
+                ContextInfo(); var
+                existingHash =
+                \u0027\u0027; if(window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    \u0027&\u0027).replace(/&&/g,
+                    \u0027-\u0027); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if(""
+                    == serverFilterRootFolder
+                    && ""
+                    != currentRootFolder)
+                    {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    \u0027\u0027; window.location.search
+                    = \u0027?\u0027
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{E4DEE41A-934F-4E5D-8895-5F152656B0BA}";
+                ctx.view =
+                "{79A887E1-567D-4D18-9929-62B2A20B266D}"; ctx.listUrlDir
+                = "/Lists/Healthcare%20Questions%20Answered%20%20Subcategory";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "1";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Healthcare Questions Answered - Subcategory";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={E4DEE41A-934F-4E5D-8895-5F152656B0BA}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={E4DEE41A-934F-4E5D-8895-5F152656B0BA}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                84; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{79A887E1-567D-4D18-9929-62B2A20B266D}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{79A887E1-567D-4D18-9929-62B2A20B266D}" ]
+                = 84;
+                ctx.CurrentUserId =
+                -1; ctx84
+                = ctx;
+                g_ctxDict [ \u0027ctx84\u0027 ]
+                = ctx;
+                </script><tbody><tr><td><iframe src="javascript:false;"
+                id="FilterIframe84" name="FilterIframe84"
+                style="display:none" height="0"
+                width="0" filterlink="?"></iframe><table
+                summary="Healthcare Questions Answered - Subcategory " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;View={79A887E1-567D-4D18-9929-62B2A20B266D}"
+                width="100%" border="0"
+                cellspacing="0" dir="none"
+                onmouseover="EnsureSelectionHandler(event,this,84)" cellpadding="1"
+                id="{E4DEE41A-934F-4E5D-8895-5F152656B0BA}-{79A887E1-567D-4D18-9929-62B2A20B266D}" class="ms-listviewtable"><tbody><tr
+                valign="top" class="ms-viewheadertr ms-vhltr"><th
+                nowrap="" scope="col"
+                onmouseover="OnChildColumn(this)" class="ms-vh2"><div
+                sortable="" sortdisable=""
+                filterdisable="" filterable="FALSE"
+                filterdisablemessage="" name="URLNoMenu"
+                ctxnum="84" displayname="URL"
+                fieldtype="Computed" resulttype=""
+                sortfields="View={79a887e1-567d-4d18-9929-62b2a20b266d}&amp;SortField=URLNoMenu&amp;SortDir=Asc" class="ms-vh-div smallFont"><a
+                id="diidSortURLNoMenu" onfocus="OnFocusFilter(this)"
+                href="javascript:" onclick="javascript:return OnClickFilter(this,event);"
+                sortingfields="View={79a887e1-567d-4d18-9929-62b2a20b266d}&amp;SortField=URLNoMenu&amp;SortDir=Asc">URL<img src="/_layouts/images/blank.gif"
+                class="ms-hidden" border="0"
+                width="1" height="1"
+                alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/images/blank.gif"
+                alt="" border="0"><img
+                src="/_layouts/images/blank.gif" border="0"
+                alt=""></div><div class="s4-ctx smallFont"><span>&nbsp;</span><a
+                onfocus="OnChildColumn(this.parentNode.parentNode); return false;" onclick="PopMenuFromChevron(event); return false;"
+                href="javascript:;" title="Open Menu"></a><span>&nbsp;</span></div></th></tr><input
+                type="hidden" id="GroupByColFlag"><input
+                type="hidden" id="GroupByWebPartID84"
+                webpartid="{79A887E1-567D-4D18-9929-62B2A20B266D}"></tbody><tbody id="GroupByCol{79A887E1-567D-4D18-9929-62B2A20B266D}"><tr
+                id="GroupByCol84" querystring="?"></tr></tbody><tbody
+                id="titl84-1_" groupstring="%3B%23Common%20Diagnoses%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(\u002784-1_\u0027, \u0027img_84-1_\u0027,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_84-1_">&nbsp;Subcategory</a>
+                : Common
+                Diagnoses<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(9)
+                </span></td></tr></tbody><tbody id="tbod84-1__"
+                isloaded="true"></tbody><tbody><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.cancer.org/docroot/home/index.asp">Cancer</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.arthritis.org/disease-center.php?disease_id=31">Rheumatoid Arthritis</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://google.com">Test
+                link</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.mayoclinic.com/health/parkinsons-disease/DS00295">Parkinson’s Disease</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nof.org/osteoporosis/diseasefacts.htm">Osteoporosis</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.arthritis.org/disease-center.php?disease_id=32">Osteoarthritis</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.kidney.org/kidneydisease/">Kidney
+                Disease</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.stroke.org/site/PageNavigator/HOME">High Blood
+                Pressure /
+                Stroke</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.diabetes.org/">Diabetes</a></td></tr></tbody><tbody id="titl84-2_"
+                groupstring="%3B%23Hospice%20Care%3B%23"><tr id="group0"><td
+                colspan="100" nowrap=""
+                class="ms-gb"><a href="javascript:"
+                onclick="javascript:ExpCollGroup(\u002784-2_\u0027, \u0027img_84-2_\u0027,event, false);return false;"><img src="/_layouts/images/minus.gif"
+                border="0" alt="collapse"
+                id="img_84-2_">&nbsp;Subcategory</a>: Hospice
+                Care<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(5)
+                </span></td></tr></tbody><tbody id="tbod84-2__"
+                isloaded="true"></tbody><tbody><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmahc.org/displaycommon.cfm?an=1">Homecare &amp;
+                Hospice Consumer
+                Information</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nhpco.org/templates/1/homepage.cfm">Advancing Care
+                at the
+                End of
+                Life</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://google.com">http: //google.com</a></td></tr><tr class=""><td class="ms-vb2"><a onfocus="OnLink(this)" href="http://www.medicare.gov/Publications/Pubs/pdf/02154.pdf">Medicare and Hospice</a></td></tr><tr class="ms-alternating"><td class="ms-vb2"><a onfocus="OnLink(this)" href="http://www.nahc.org/">National Association for Homecare and Hospice</a></td></tr></tbody><tbody id="titl84-3_" groupstring="%3B%23Medicaid%3B%23"><tr id="group0"><td colspan="100" nowrap="" class="ms-gb"><a href="javascript:" onclick="javascript:ExpCollGroup(\u002784-3_\u0027, \u0027img_84-3_\u0027,event, false);return false;"><img src="/_layouts/images/minus.gif" border="0" alt="collapse" id="img_84-3_">&nbsp;Subcategory</a> : Medicaid<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(5)
+                </span></td></tr></tbody><tbody
+                id="tbod84-3__" isloaded="true"></tbody><tbody><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/Silvertips/Silver_Tips_applying_for_Medicaid.html">Applying
+                for Medicaid</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.govbenefits.gov/govbenefits_en.portal">GovBenefits.gov
+                - Information
+                on over
+                1,
+                000 benefit
+                and assistance
+                programs</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.newmexicoresources.org/pages.cfm?contentID=35&amp;pageID=13&amp;Subpages=yes">Medicaid: Frequently
+                Asked Questions</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.hrsa.gov/reimbursement/states/New-Mexico-Eligibility.htm">Overview
+                of Medicaid
+                Programs</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.healthcarecoach.com/resources/index.php?view=detail&amp;id=113&amp;node=4">What if
+                I am
+                Denied Medicaid
+                Coverage?</a></td></tr></tbody><tbody id="titl84-4_"
+                groupstring="%3B%23Medicare%3B%23"><tr id="group0"><td
+                colspan="100" nowrap=""
+                class="ms-gb"><a href="javascript:"
+                onclick="javascript:ExpCollGroup(\u002784-4_\u0027, \u0027img_84-4_\u0027,event, false);return false;"><img src="/_layouts/images/minus.gif"
+                border="0" alt="collapse"
+                id="img_84-4_">&nbsp;Subcategory</a>: Medicare<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(12) </span></td></tr></tbody><tbody
+                id="tbod84-4__" isloaded="true"></tbody><tbody><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/Silvertips/Silver_Tips_approaching_Medicare_age.html">Are
+                you Approaching
+                Medicare Age?</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.medicarerights.org/pdf/copay_charities.pdf">Charity
+                Programs that
+                Help Pay
+                Your Medicare
+                Prescription Drug
+                Plan Copays</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.govbenefits.gov/govbenefits_en.portal">GovBenefits.gov
+                - Information
+                on over
+                1,
+                000 benefit
+                and assistance
+                programs</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.newmexicoresources.org/pages.cfm?contentID=53&amp;pageID=13&amp;Subpages=yes">Medicare Frequently
+                Asked Questions</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.medicare.gov/default.asp">Medicare
+                Information Webpage</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.medicareinteractive.org/page2.php?topic=counselor&amp;page=script&amp;slide_id=322">Medicare
+                Interactive Navigation</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.mymedicarecommunity.org/">Medicare
+                Tips &amp;
+                Resources</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.medicare.gov/quality-care-finder/">Medicare: Quality
+                Care Finder</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.medicare.gov/Publications/Pubs/pdf/02110.pdf">Medigap
+                Policies 2010/2011</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/Silvertips/Silver_Tips_Medicare_nursing_home_coverage.html">Nursing
+                Home Coverage
+                through Medicare</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://rxassist.org/docs/medicare-and-paps.cfm">Patient
+                Assistance Program
+                Eligibility Criteria
+                and Medicare
+                Part D</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.lawhelp.org/NM/showdocument.cfm/County/%20/City/%20/demoMode/=%201/Language/1/State/NM/TextOnly/N/ZipCode/%20/LoggedIn/0/rpc/1510100/doctype/dynamicdoc/ichannelprofileid/19051/idynamicdocid/2293/iorganizationid/0/itopicID/1150/iProblemCodeID/15">What
+                is QMB
+                / SLMB?</a></td></tr></tbody><tbody
+                id="titl84-5_" groupstring="%3B%23Public%20Medical%20Benefits%20Information%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(\u002784-5_\u0027, \u0027img_84-5_\u0027,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_84-5_">&nbsp;Subcategory</a>
+                : Public
+                Medical Benefits
+                Information<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(6)
+                </span></td></tr></tbody><tbody id="tbod84-5__"
+                isloaded="true"></tbody><tbody><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="/knowledgecenter/Benefits%20Counseling%20Desk%20Reference%202012.doc">A Guide
+                to Public
+                Benefits for
+                New Mexicans</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://ssl1.benefitscheckup.org/">Benefits
+                Checkup</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/Benefits_Counseling_Bureau.html">Benefits Counseling
+                Bureau</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.govbenefits.gov/govbenefits_en.portal">GovBenefits.gov -
+                Information on
+                over 1,
+                000 benefit
+                and assistance
+                programs</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/Silvertips/Silver_Tips_health_insurance_paperwork.html">Help with
+                Health Insurance
+                Paperwork</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/Silvertips/Silver_Tips_Veterans_VA_system.html">The VA
+                Healthcare System</a></td></tr></tbody><tbody
+                id="titl84-6_" groupstring="%3B%23Wellness%20%26%20Healthy%20Lifestyle%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(\u002784-6_\u0027, \u0027img_84-6_\u0027,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_84-6_">&nbsp;Subcategory</a>
+                : Wellness
+                &amp; Healthy
+                Lifestyle<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(12)
+                </span></td></tr></tbody><tbody id="tbod84-6__"
+                isloaded="true"></tbody><tbody><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.ahaf.org">American Health
+                Assistance Foundation</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.boomerater.com/">Boomrater
+                : A
+                free online
+                advice network
+                for Baby
+                Boomers.</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.cdc.gov/vaccines/">CDC -
+                Immunizations/Vaccine Information
+                and Facts</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.cfsan.fda.gov/~dms/ds-oview.html">Dietary
+                Supplements</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/pdf_files/PAC_Issue_Papers/PAC_Health_and_Independence_Issue_Paper.pdf">Facts &amp;
+                Figures About
+                Health and
+                Independence</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://go4life.niapublications.org/">Go4Life-designed to
+                help you
+                fit exercise
+                and physical
+                activity into
+                your daily
+                life</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.healthcare.gov/">Healthcare: Explore
+                Your Healthcare
+                Options</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/nutrition-general.html">Nutrition Information
+                from the
+                State of
+                New Mexico</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://seniorjournal.com/NEWS/Fitness/2-12-20Tips42003.htm">Physical
+                Fitness Tips
+                for Older
+                Adults</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://nutrition.tufts.edu/1197972031385/Nutrition-Page-nl2w_1198058402614.html">Senior Food
+                Pyramid</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmseniorolympics.org/">Senior Olympics</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.ninds.nih.gov/disorders/post_polio/post_polio.htm">What
+                is Post
+                Polio Syndrome
+                (PPS)?</a></td></tr></tbody></table><script type="text/javascript">HideListViewRows("{E4DEE41A-934F-4E5D-8895-5F152656B0BA}-{79A887E1-567D-4D18-9929-62B2A20B266D}");</script></td></tr></tbody></table></div></td>
+                </tr> </tbody></table></td></tr></tbody></table></div>
+                <div class="smallFont"
+                id="vid_7c55928e-5e99-436a-ad43-42dc9c21bcc3" unselectable="on"
+                style="display:none"></div></div> </div>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

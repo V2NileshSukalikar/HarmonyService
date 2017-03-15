@@ -1,0 +1,450 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div class="ms-rte-layoutszone-inner smallFont"
+                role="textbox" aria-autocomplete="both"
+                aria-haspopup="true" aria-multiline="true"><style>
+                .ExternalClassD65A6376F0B7498FAE4EAD77C925C686 .ms-viewheadertr
+                { display: none; }
+                </style> <div
+                class="title clearfix smallFont"><h1>Legal Services
+                </h1></div> <br><div
+                unselectable="on" class="ms-rtestate-read ms-rte-wpbox smallFont"><div
+                id="div_8c58d606-c55e-4b58-a88a-72da8a041458" class="ms-rtestate-notify  ms-rtestate-read 8c58d606-c55e-4b58-a88a-72da8a041458 smallFont"
+                unselectable="on"><table style="width:100%"
+                cellpadding="0" cellspacing="0"><tbody><tr><td
+                id="MSOZoneCell_WebPartWPQ2" webpartwpq2_relatedlistid="{3f809812-7d2d-41b0-96c5-6c6a2d918a66}"
+                webpartwpq2_webpartstoragekey="841b193c-8b4a-4159-89a8-e509f2d1c1f9" valign="top"
+                class="s4-wpcell" onkeyup="WpKeyUp(event)"
+                onmouseup="WpClick(event)"><table class="s4-wpTopTable"
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody><tr> <td
+                valign="top"><div webpartid="841b193c-8b4a-4159-89a8-e509f2d1c1f9"
+                webpartid2="8c58d606-c55e-4b58-a88a-72da8a041458" haspers="false"
+                id="WebPartWPQ2" width="100%"
+                allowremove="false" allowdelete="false"
+                style="" class="smallFont"><table
+                width="100%" cellpadding="0"
+                cellspacing="0" border="0"
+                xmlns: x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"><script
+                type="text/javascript"> ctx
+                = new
+                ContextInfo(); var
+                existingHash =
+                ; if(window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    &).replace(/&&/g,
+                    -); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if(""
+                    == serverFilterRootFolder
+                    && ""
+                    != currentRootFolder)
+                    {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    ; window.location.search
+                    = ?
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{3F809812-7D2D-41B0-96C5-6C6A2D918A66}";
+                ctx.view =
+                "{841B193C-8B4A-4159-89A8-E509F2D1C1F9}"; ctx.listUrlDir
+                = "/Lists/Legal%20Services%20%20Main";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Legal Services - Main";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={3F809812-7D2D-41B0-96C5-6C6A2D918A66}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={3F809812-7D2D-41B0-96C5-6C6A2D918A66}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                73; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{841B193C-8B4A-4159-89A8-E509F2D1C1F9}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{841B193C-8B4A-4159-89A8-E509F2D1C1F9}" ]
+                = 73;
+                ctx.CurrentUserId =
+                -1; ctx73
+                = ctx;
+                g_ctxDict [ ctx73 ]
+                = ctx;
+                </script><tbody><tr><td><table id="{3F809812-7D2D-41B0-96C5-6C6A2D918A66}-{841B193C-8B4A-4159-89A8-E509F2D1C1F9}"
+                summary="Legal Services - Main " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;List={3F809812-7D2D-41B0-96C5-6C6A2D918A66}&amp;View={841B193C-8B4A-4159-89A8-E509F2D1C1F9}"
+                class="ms-summarycustombody" style="margin-bottom: 5px;"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : o="urn:schemas-microsoft-com:office:office"><tbody><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.newmexicoresources.org/pages.cfm?contentID=43&amp;pageID=19&amp;Subpages=yes">Information
+                About Legal
+                Service Programs</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.lawhelp.org/Program/3577/programresources.cfm?pagename=Program%20Resources">Law
+                Access New
+                Mexico</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.lawhelpnewmexico.org/">Law Help
+                New Mexico</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/nlawyer.html">Do
+                You Need
+                to Find
+                a Lawyer?</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.nmaging.state.nm.us/Ombudsman_bureau.html">New
+                Mexico State
+                Long-Term Care
+                Ombudsman</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.nmbar.org/Public/seniorlegalhandbook.html">Senior Legal
+                Handbook</a></td></tr></tbody></table></td></tr></tbody></table></div></td> </tr>
+                </tbody></table></td></tr></tbody></table></div> <div
+                unselectable="on" id="vid_8c58d606-c55e-4b58-a88a-72da8a041458"
+                style="display:none" class="smallFont"></div></div>
+
+
+                <div unselectable="on"
+                class="ms-rtestate-read ms-rte-wpbox smallFont"><div id="div_eed93a39-8ea2-4e89-a86a-5a508850b3a2"
+                class="ms-rtestate-notify  ms-rtestate-read eed93a39-8ea2-4e89-a86a-5a508850b3a2 smallFont" unselectable="on"><table
+                style="width:100%" cellpadding="0"
+                cellspacing="0"><tbody><tr><td id="MSOZoneCell_WebPartWPQ3"
+                webpartwpq3_relatedlistid="{b931945c-2e4f-492d-83e0-d81c9be81db3}" webpartwpq3_webpartstoragekey="323ba8cb-82f2-4abd-bae0-049e0a414c69"
+                valign="top" class="s4-wpcell"
+                onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)"><table
+                class="s4-wpTopTable" border="0"
+                cellpadding="0" cellspacing="0"
+                width="100%"> <tbody><tr>
+                <td valign="top"><div
+                webpartid="323ba8cb-82f2-4abd-bae0-049e0a414c69" webpartid2="eed93a39-8ea2-4e89-a86a-5a508850b3a2"
+                haspers="false" id="WebPartWPQ3"
+                width="100%" allowremove="false"
+                allowdelete="false" style=""
+                class="smallFont"><script xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal">
+                try {
+                    // remove the click handler of the containing element
+                    $get(MSOZoneCell_WebPartWPQ3).onmouseup =
+                    function ()
+                    { }
+                    ;
+                    // remove the TD element containing the wp selection checkbox in the wps header
+                    $get(SelectionCbxWebPartWPQ3).parentNode.parentNode.style.display
+                    = none;
+                }
+                catch (ex)
+                { }
+                </script><table width="100%"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"
+                xmlns: o="urn:schemas-microsoft-com:office:office"><script
+                type="text/javascript"> ctx
+                = new
+                ContextInfo(); var
+                existingHash =
+                ; if(window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    &).replace(/&&/g,
+                    -); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if(""
+                    == serverFilterRootFolder
+                    && ""
+                    != currentRootFolder)
+                    {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    ; window.location.search
+                    = ?
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{B931945C-2E4F-492D-83E0-D81C9BE81DB3}";
+                ctx.view =
+                "{323BA8CB-82F2-4ABD-BAE0-049E0A414C69}"; ctx.listUrlDir
+                = "/Lists/Legal%20Services%20%20Subcategory";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "1";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Legal Services - Subcategory";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={B931945C-2E4F-492D-83E0-D81C9BE81DB3}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={B931945C-2E4F-492D-83E0-D81C9BE81DB3}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                74; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{323BA8CB-82F2-4ABD-BAE0-049E0A414C69}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{323BA8CB-82F2-4ABD-BAE0-049E0A414C69}" ]
+                = 74;
+                ctx.CurrentUserId =
+                -1; ctx74
+                = ctx;
+                g_ctxDict [ ctx74 ]
+                = ctx;
+                </script><tbody><tr><td><iframe src="javascript:false;"
+                id="FilterIframe74" name="FilterIframe74"
+                style="display:none" height="0"
+                width="0" filterlink="?"></iframe><table
+                summary="Legal Services - Subcategory " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;View={323BA8CB-82F2-4ABD-BAE0-049E0A414C69}"
+                width="100%" border="0"
+                cellspacing="0" dir="none"
+                onmouseover="EnsureSelectionHandler(event,this,74)" cellpadding="1"
+                id="{B931945C-2E4F-492D-83E0-D81C9BE81DB3}-{323BA8CB-82F2-4ABD-BAE0-049E0A414C69}" class="ms-listviewtable"><tbody><tr
+                valign="top" class="ms-viewheadertr ms-vhltr"><th
+                nowrap="" scope="col"
+                onmouseover="OnChildColumn(this)" class="ms-vh2"><div
+                sortable="" sortdisable=""
+                filterdisable="" filterable="FALSE"
+                filterdisablemessage="" name="URLNoMenu"
+                ctxnum="74" displayname="URL"
+                fieldtype="Computed" resulttype=""
+                sortfields="View={323ba8cb-82f2-4abd-bae0-049e0a414c69}&amp;SortField=URLNoMenu&amp;SortDir=Asc" class="ms-vh-div smallFont"><a
+                id="diidSortURLNoMenu" onfocus="OnFocusFilter(this)"
+                href="javascript:" onclick="javascript:return OnClickFilter(this,event);"
+                sortingfields="View={323ba8cb-82f2-4abd-bae0-049e0a414c69}&amp;SortField=URLNoMenu&amp;SortDir=Asc">URL<img src="/_layouts/images/blank.gif"
+                class="ms-hidden" border="0"
+                width="1" height="1"
+                alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/images/blank.gif"
+                alt="" border="0"><img
+                src="/_layouts/images/blank.gif" border="0"
+                alt=""></div><div class="s4-ctx smallFont"><span>&nbsp;</span><a
+                onfocus="OnChildColumn(this.parentNode.parentNode); return false;" onclick="PopMenuFromChevron(event); return false;"
+                href="javascript:;" title="Open Menu"></a><span>&nbsp;</span></div></th></tr><input
+                type="hidden" id="GroupByColFlag"><input
+                type="hidden" id="GroupByWebPartID74"
+                webpartid="{323BA8CB-82F2-4ABD-BAE0-049E0A414C69}"></tbody><tbody id="GroupByCol{323BA8CB-82F2-4ABD-BAE0-049E0A414C69}"><tr
+                id="GroupByCol74" querystring="?"></tr></tbody><tbody
+                id="titl74-1_" groupstring="%3B%23Advance%20Directives%20%26%20Wills%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(74-1_, img_74-1_,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_74-1_">&nbsp;Subcategory</a>
+                : Advance
+                Directives &amp;
+                Wills<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(3)
+                </span></td></tr></tbody><tbody id="tbod74-1__"
+                isloaded="true"></tbody><tbody><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/AHCD.html">Advance Healthcare
+                Directives</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.aarp.org/families/end_life/a2003-12-04-endoflife-will.html">Creating a
+                Will</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.mayoclinic.com/health/living-wills/HA00014">Maintaining a
+                Living Will</a></td></tr></tbody><tbody
+                id="titl74-2_" groupstring="%3B%23Avoiding%20Fraud%3B%23"><tr
+                id="group0"><td colspan="100"
+                nowrap="" class="ms-gb"><a
+                href="javascript:" onclick="javascript:ExpCollGroup(74-2_, img_74-2_,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_74-2_">&nbsp;Subcategory</a>
+                : Avoiding
+                Fraud<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">&nbsp;‎(5)
+                </span></td></tr></tbody><tbody id="tbod74-2__"
+                isloaded="true"></tbody><tbody><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.fbi.gov/majcases/fraud/seniorsfam.htm">Avoiding Elder
+                Fraud</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.ftc.gov/bcp/edu/microsites/idtheft/consumers/about-identity-theft.html">Avoiding Identy
+                Theft</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/Silvertips/Silver_Tips_workshop_offers.html">Carefully Study
+                Workshop Offers</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="/knowledgecenter/MassMarketFraud.pdf">Reporting
+                Internet Crime
+                to the
+                FBI</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.aarp.org/money/credit-loans-debt/reverse_mortgages/">What are
+                Reverse Morgtages?</a></td></tr></tbody></table><script
+                type="text/javascript">HideListViewRows("{B931945C-2E4F-492D-83E0-D81C9BE81DB3}-{323BA8CB-82F2-4ABD-BAE0-049E0A414C69}");</script></td></tr></tbody></table></div></td> </tr>
+                </tbody></table></td></tr></tbody></table></div> <div
+                unselectable="on" id="vid_eed93a39-8ea2-4e89-a86a-5a508850b3a2"
+                style="display:none" class="smallFont"></div></div>
+                </div>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

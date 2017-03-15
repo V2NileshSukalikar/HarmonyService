@@ -1,0 +1,296 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <table id="{51F027E9-4520-4DCE-B5DA-01F762417DF7}-{B4F38B1B-91E8-47F4-8EF0-0516087516B6}"
+                summary="Whats New - Main " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;List={51F027E9-4520-4DCE-B5DA-01F762417DF7}&amp;View={B4F38B1B-91E8-47F4-8EF0-0516087516B6}"
+                class="ms-summarycustombody" style="margin-bottom: 5px;"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : o="urn:schemas-microsoft-com:office:office">
+                <tbody> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.aarp.org/applications/VMISLocator/searchTaxAideLocations.action">AARP
+                - 2011
+                Free Tax
+                Aide</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.ahaf.org">American
+                Health Assistance
+                Foundation</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.abqjournal.com/health/support.pdf">Bernalillo
+                County Support
+                Groups</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.boomerater.com/">Boomrater
+                : A
+                free online
+                advice network
+                for Baby
+                Boomers.</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.refersoftware.com/nmdb/">Center
+                for Development
+                and Disability
+                Information Network</a></td></tr>
+                <tr> <td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td>
+                <td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.medicarerights.org/pdf/copay_charities.pdf">Charity Programs
+                that Help
+                Pay Your
+                Medicare Prescription
+                Drug Plan
+                Copays</a></td> </tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.cnm.edu/taxhelp/">CNM TAX
+                HELP NM</a></td></tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.disasterassistance.gov/daip_en.portal">Disaster Assistance
+                and Info</a></td></tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://nw.org/network/foreclosure/nfmcp/EHLPconsumers.asp">Emergency Homeowners
+                Loan Program
+                (EHLP)</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.disability.gov/emergency_preparedness/preparedness_tools_%26_resources">Emergency
+                Tools and
+                Resources</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.nmmra.org/nmivc/cliniclist.php">Flu
+                Clinics in
+                New Mexico
+                - 2011/2012</a></td></tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="/KnowledgeCenter/FROM+GRIEF+TO+LAUGHTER+Caregivers.docx.doc">From Grief
+                to Laughter
+                : Free
+                Support Group
+                Classes</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://go4life.niapublications.org/">Go4Life-designed
+                to help
+                you fit
+                exercise and
+                physical activity
+                into your
+                daily life</a></td></tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.govbenefits.gov/govbenefits_en.portal">GovBenefits.gov -
+                Information on
+                over 1,
+                000 benefit
+                and assistance
+                programs</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.habitsforlife.org/">Habits
+                for Life
+                - Accessibilty
+                for New
+                Mexicans to
+                Health Screenings,
+                Health Education
+                and Awareness</a></td></tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.medicareinteractive.org/page2.php?topic=counselor&amp;page=script&amp;slide_id=322">Medicare Interactive
+                Navigation</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.mymedicarecommunity.org/">Medicare
+                Tips &amp;
+                Resources</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.housingnm.org/files/contractAdmin/ResourcesMaterials/HPRP-OutreachTraining.PDF">MFA
+                - Homelessness
+                Prevention and
+                Rapid Re-Housing
+                Program</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://hap.usace.army.mil/Overview.html">Military
+                Homeownership Assistance</a></td></tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.lgbtagingcenter.org/">National Resource
+                Center on
+                LGBT Elders</a></td></tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.nmabilities.org/NMAbilities/">New Mexico
+                Abilities-Contracts and
+                Jobs for
+                People with
+                Disabilities</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.newmexicodrugcard.com/index.php">New
+                Mexico Drug
+                Card -
+                New Mexico’s
+                FREE discount
+                prescription assistance
+                program</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.aidsinfonet.org/">NM
+                Aids Infonet</a></td></tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://nmhivguide.org/">NM HIV
+                Online Resource
+                Guide</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://rxassist.org/docs/medicare-and-paps.cfm">Patient
+                Assistance Program
+                Eligibility Criteria
+                and Medicare
+                Part D</a></td></tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.pensionhelp.org/">Pension Help
+                - Information
+                about Retirement
+                Plans and
+                Resources</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="/KnowledgeCenter/MassMarketFraud.pdf">Reporting
+                Internet Crime
+                to the
+                FBI</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://assistedlivingway.com/w/safety/">Resources
+                and Informative
+                Tips on
+                Senior Safety
+                and Living</a></td></tr>
+                <tr><td style="padding-bottom: 5px"
+                class="ms-vb"><img src="/_layouts/images/square.gif"
+                alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://ssa.gov/pubs/10061.html">Social Security
+                Adminstration: Ticket
+                to Work
+                Program</a></td></tr> <tr><td
+                style="padding-bottom: 5px" class="ms-vb"><img
+                src="/_layouts/images/square.gif" alt="">&nbsp;</td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.caregiver.va.gov/index.asp">VA
+                Caregiver Support
+                Resources and
+                Information</a></td></tr> </tbody>
+                </table>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

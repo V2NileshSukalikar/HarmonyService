@@ -1,0 +1,128 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div class="ms-rte-layoutszone-inner smallFont" role="textbox" aria-autocomplete="both" aria-haspopup="true" aria-multiline="true"><style>
+.ExternalClass5DDD4A0514104AE19C73C728EC900F58 .ms-viewheadertr
+{display:none;}
+</style>
+<div class="title clearfix smallFont"><h1>Información en Español
+</h1></div>
+<br>
+<div class="ms-rtestate-read ms-rte-wpbox smallFont"><div id="div_dabfc383-dc87-4d1a-a14f-7e46bedd9efd" class="ms-rtestate-notify  ms-rtestate-read dabfc383-dc87-4d1a-a14f-7e46bedd9efd smallFont" unselectable="on"><table style="width:100%" cellpadding="0" cellspacing="0"><tbody><tr><td id="MSOZoneCell_WebPartWPQ2" webpartwpq2_relatedlistid="{b854979a-a152-4d53-8c46-7f06010775e4}" webpartwpq2_webpartstoragekey="75854a87-42e8-4075-8905-6675f89fc557" valign="top" class="s4-wpcell" onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td valign="top"><div webpartid="75854a87-42e8-4075-8905-6675f89fc557" webpartid2="dabfc383-dc87-4d1a-a14f-7e46bedd9efd" haspers="false" id="WebPartWPQ2" width="100%" allowremove="false" allowdelete="false" allowexport="false" style="" class="smallFont"><table width="100%" cellpadding="0" cellspacing="0" border="0" xmlns:x="http://www.w3.org/2001/XMLSchema" xmlns:d="http://schemas.microsoft.com/sharepoint/dsp" xmlns:asp="http://schemas.microsoft.com/ASPNET/20" xmlns:__designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer" xmlns:sharepoint="Microsoft.SharePoint.WebControls" xmlns:ddwrt2="urn:frontpage:internal"><script type="text/javascript">
+      ctx = new ContextInfo();
+      
+      var existingHash = \u0027\u0027;
+      if(window.location.href.indexOf("#") > -1){
+        existingHash = window.location.href.substr(window.location.href.indexOf("#"));
+      }
+      ctx.existingServerFilterHash = existingHash;
+      if (ctx.existingServerFilterHash.indexOf("ServerFilter=") == 1) {
+        ctx.existingServerFilterHash = ctx.existingServerFilterHash.replace(/-/g, \u0027&\u0027).replace(/&&/g, \u0027-\u0027);
+        var serverFilterRootFolder = GetUrlKeyValue("RootFolder", true,ctx.existingServerFilterHash);
+        var currentRootFolder = GetUrlKeyValue("RootFolder", true);
+        if("" == serverFilterRootFolder && "" != currentRootFolder)
+        {
+          ctx.existingServerFilterHash += "&RootFolder=" + currentRootFolder;
+        }
+        window.location.hash = \u0027\u0027;
+        window.location.search = \u0027?\u0027 + ctx.existingServerFilterHash.substr("ServerFilter=".length + 1);
+      }
+        
+          ctx.listBaseType = 0;
+      
+      ctx.NavigateForFormsPages = false;
+      ctx.listTemplate = "103";
+      ctx.listName = "{B854979A-A152-4D53-8C46-7F06010775E4}";
+      ctx.view = "{75854A87-42E8-4075-8905-6675F89FC557}";
+      ctx.listUrlDir = "/Lists/Informacin%20en%20Espaol";
+      ctx.HttpPath = "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001";
+      ctx.HttpRoot = "https://wrcstaging.harmonyis.net";
+      ctx.imagesPath = "/_layouts/images/";
+      ctx.PortalUrl = "";
+      ctx.SendToLocationName = "";
+      ctx.SendToLocationUrl = "";
+      
+          ctx.RecycleBinEnabled = 1;
+        
+      ctx.OfficialFileName = "";
+      ctx.OfficialFileNames = "";
+      ctx.WriteSecurity = "";
+      ctx.SiteTitle = "";
+      ctx.ListTitle = "Informaci\u00F3n en Espa\u00F1ol - Main";
+      if (ctx.PortalUrl == "") ctx.PortalUrl = null;
+      ctx.displayFormUrl = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={B854979A-A152-4D53-8C46-7F06010775E4}";
+      ctx.editFormUrl = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={B854979A-A152-4D53-8C46-7F06010775E4}";
+      ctx.isWebEditorPreview = 0;
+      ctx.ctxId = 76;
+      ctx.isXslView = true;
+      
+      if (g_ViewIdToViewCounterMap["{75854A87-42E8-4075-8905-6675F89FC557}"] == null)
+          g_ViewIdToViewCounterMap["{75854A87-42E8-4075-8905-6675F89FC557}"]= 76;
+      ctx.CurrentUserId = -1;
+      
+      ctx76 = ctx;
+      g_ctxDict[\u0027ctx76\u0027] = ctx;
+    </script><tbody><tr><td><table id="{B854979A-A152-4D53-8C46-7F06010775E4}-{75854A87-42E8-4075-8905-6675F89FC557}" summary="Información en Español - Main " o:webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;List={B854979A-A152-4D53-8C46-7F06010775E4}&amp;View={75854A87-42E8-4075-8905-6675F89FC557}" class="ms-summarycustombody" style="margin-bottom: 5px;" cellspacing="0" cellpadding="0" border="0" xmlns:o="urn:schemas-microsoft-com:office:office"><tbody><tr><td style="padding-bottom: 5px" class="ms-vb"><img src="/_layouts/images/square.gif" alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a onfocus="OnLink(this)" href="http://kidney.niddk.nih.gov/index_sp.htm">National Kidney and Urologic Diseases Information</a></td></tr><tr><td style="padding-bottom: 5px" class="ms-vb"><img src="/_layouts/images/square.gif" alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a onfocus="OnLink(this)" href="http://www.lawhelp.org/documents/343291Guardianship%20Legal%20Helpine%20(Spanish).pdf?CFID=8159463&amp;CFTOKEN=32d40ec0f0d5f45a-B220699D-F3C5-CEE4-C66D47586A0191C3&amp;jsessionid=48302fa87ca1$A7$3F$DTR">La Linea de Ayuda Legal</a></td></tr><tr><td style="padding-bottom: 5px" class="ms-vb"><img src="/_layouts/images/square.gif" alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a onfocus="OnLink(this)" href="http://www.aidsinfonet.org/">La InfoRed SIDA de NM</a></td></tr><tr><td style="padding-bottom: 5px" class="ms-vb"><img src="/_layouts/images/square.gif" alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a onfocus="OnLink(this)" href="http://espanol.ninds.nih.gov/trastornos/el_traumatismo_cerebral.htm">¿Qué es el Traumatismo Cerebral?</a></td></tr><tr><td style="padding-bottom: 5px" class="ms-vb"><img src="/_layouts/images/square.gif" alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a onfocus="OnLink(this)" href="/KnowledgeCenter/wdi_brochure_sp.pdf">Individuos Discapacitados que Trabajan</a></td></tr><tr><td style="padding-bottom: 5px" class="ms-vb"><img src="/_layouts/images/square.gif" alt="">&nbsp;</td><td style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a onfocus="OnLink(this)" href="http://www.grandfactsheets.org/doc/NM-ES-07-final3.pdf">Una Hoja Informative Estal Para y Otras Familiares que Están Criando Niños</a></td></tr></tbody></table></td></tr></tbody></table></div></td>
+	</tr>
+</tbody></table></td></tr></tbody></table></div>
+<div id="vid_dabfc383-dc87-4d1a-a14f-7e46bedd9efd" unselectable="on" style="display:none" class="smallFont"></div></div>
+
+</div>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

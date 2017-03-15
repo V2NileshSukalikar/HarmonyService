@@ -1,0 +1,210 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div> <div><span
+                class="titleSpan">How to
+                use this
+                Site: </span>
+                <p>Thank you
+                for using
+                our web
+                site! this
+                section is
+                designed to
+                provide you
+                with tips
+                and tricks
+                on how
+                to use
+                this site
+                and find
+                the information
+                that youre
+                looking for.</p></div>
+                <ul class="importantLinks clearfix"
+                id="smallTerms"> <li><span
+                class="term">Home: </span>
+                <span>The home
+                page offers
+                basic introductory
+                information and
+                provides the
+                ability to
+                search for
+                services and
+                programs. </span></li>
+                <li><span class="term">Find
+                Organizations: </span>
+                <span>Find Organizations
+                allows users
+                search for
+                providers and
+                resources based
+                on services
+                provided and
+                location.</span> </li>
+                <li><span class="term">Search
+                Assistance: </span>
+                <span>A data
+                driven tool
+                that finds
+                applicable resources
+                based on
+                our current
+                needs and
+                objectives. </span></li>
+                <li><span class="term">Knowledge
+                Center: </span>
+                <span>A collection
+                of educational
+                resources on
+                relevant health
+                and human
+                services topics.
+                This section
+                also includes
+                downloadable white
+                papers,
+                videos and
+                other documents.
+                </span></li> <li><span
+                class="term">Community Calendar
+                : </span>
+                <span>Provides a
+                calendar of
+                community events
+                open to
+                the general
+                public.</span> </li>
+                <li><span class="term">Contact
+                Us: </span>
+                <span>Provides our
+                mailing address
+                and phone
+                number as
+                well as
+                the ability
+                for users
+                to send
+                a message.</span>
+                </li> <li><span
+                class="term">Send a
+                Comment: </span>
+                <span>Provides the
+                ability to
+                submit comments
+                and feedback
+                regarding not
+                only this
+                site,
+                but any
+                services that
+                we offer.
+                Communication will
+                be sent
+                directly to
+                an ADRC
+                representative. Feedback
+                can be
+                anonymous. </span></li>
+                <li><span class="term">How
+                to Use
+                Site: </span>
+                <span>Provides simple
+                tips and
+                tricks on
+                how to
+                navigate through
+                the web
+                site and
+                get the
+                most out
+                of your
+                experience. </span></li>
+                <li><span class="term">Help
+                : </span>
+                <span>Provides a
+                site map
+                and a
+                glossary of
+                terms to
+                help you
+                as you
+                use our
+                Web Site.
+                </span></li> <li><span
+                class="term">Change Font
+                Size: </span>
+                <span>In the
+                menu bar,
+                there are
+                three icons
+                [ Black box with the letter A ]
+                . Click
+                on the
+                relevant icon
+                to change
+                the font
+                size  from small
+                to medium
+                to large. 
+                The default
+                size is
+                small.</span></li> </ul>
+                </div>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

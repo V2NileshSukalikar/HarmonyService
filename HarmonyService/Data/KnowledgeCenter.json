@@ -17,8 +17,12 @@
 
             },
             {
-                "Name": "Page3",
+                "Name": "Knowledge Center",
                 "Value": "2081"
+            },
+            {
+                "Name": "How To Use Site",
+                "Value": "2082"
             }
         ]
     },
@@ -51,97 +55,97 @@
                 "Data": [
                     {
                         "Name": "What\'s New",
-                        "Id": 2079,
+                        "Id": 1,
                         "Logo": "http://harmonyservice/Images/1.png",
                         "Title": "What\'s New"
                     },
                     {
                         "Name": "Adult Abuse, Neglect & Exploitation: Finding Help",
-                        "Id": 2081,
+                        "Id": 2,
                         "Logo": "http://harmonyservice/Images/2.png",
                         "Title": "Adult Abuse, Neglect & Exploitation: Finding Help"
                     },
                     {
                         "Name": "Alzheimer's Disease & Other Dementias",
-                        "Id": 2082,
+                        "Id": 3,
                         "Logo": "http://harmonyservice/Images/3.png",
                         "Title": "Alzheimer's Disease & Other Dementias"
                     },
                     {
                         "Name": "Behavioral Health & Substance Abuse",
-                        "Id": 2082,
+                        "Id": 4,
                         "Logo": "http://harmonyservice/Images/4.png",
                         "Title": "Behavioral Health & Substance Abuse"
                     },
                     {
-                        "Name": "ViewName",
-                        "Id": 2082,
+                        "Name": "Emergency Preparedness & Response",
+                        "Id": 5,
                         "Logo": "http://harmonyservice/Images/5.png",
                         "Title": "Emergency Preparedness & Response"
                     },
                     {
-                        "Name": "ViewName",
-                        "Id": 2082,
+                        "Name": "Everyday Needs: Food, Housing & Transportation",
+                        "Id": 6,
                         "Logo": "http://harmonyservice/Images/6.png",
                         "Title": "Everyday Needs: Food, Housing & Transportation"
                     },
                     {
                         "Name": "Financial Matters & Employment Info",
-                        "Id": 2082,
+                        "Id": 7,
                         "Logo": "http://harmonyservice/Images/7.png",
                         "Title": "Financial Matters & Employment Info"
                     },
                     {
                         "Name": "Grandparents Raising Grandchildren",
-                        "Id": 2082,
+                        "Id": 8,
                         "Logo": "http://harmonyservice/Images/8.png",
                         "Title": "Grandparents Raising Grandchildren"
                     },
                     {
                         "Name": "Healthcare Questions Answered",
-                        "Id": 2082,
+                        "Id": 9,
                         "Logo": "http://harmonyservice/Images/9.png",
                         "Title": "Healthcare Questions Answered"
                     },
                     {
                         "Name": "Home & Community Based Services",
-                        "Id": 2082,
+                        "Id": 10,
                         "Logo": "http://harmonyservice/Images/10.png",
                         "Title": "Home & Community Based Services"
                     },
                     {
                         "Name": "Información en Español",
-                        "Id": 2082,
+                        "Id": 11,
                         "Logo": "http://harmonyservice/Images/11.png",
                         "Title": "Información en Español"
                     },
                     {
                         "Name": "Legal Services",
-                        "Id": 2082,
+                        "Id": 12,
                         "Logo": "http://harmonyservice/Images/12.png",
                         "Title": "Legal Services"
                     },
                     {
                         "Name": "Senior Lifestyle: Stay Active, Be Happy, Live Healthy",
-                        "Id": 2082,
+                        "Id": 13,
                         "Logo": "http://harmonyservice/Images/14.png",
                         "Title": "Senior Lifestyle: Stay Active, Be Happy, Live Healthy"
                     },
                     {
                         "Name": "Support & Resources for Caregivers",
-                        "Id": 2082,
+                        "Id": 14,
                         "Logo": "http://harmonyservice/Images/13.png",
                         "Title": "Support & Resources for Caregivers"
                     },
                     {
                         "Name": "Intellectual / Developmental Disability",
-                        "Id": 2082,
+                        "Id": 15,
                         "Logo": "http://harmonyservice/Images/learn.png",
                         "Title": "Intellectual / Developmental Disability"
                     },
                     {
                         "Name": "Veterans Resources",
-                        "Id": 2082,
+                        "Id": 16,
                         "Logo": "http://harmonyservice/Images/flag.png",
                         "Title": "Veterans Resources"
                     }

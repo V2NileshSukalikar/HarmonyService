@@ -1,0 +1,279 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <table class="s4-wpTopTable"
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody> <tr>
+                <td valign="top">
+                <div webpartid="be02a27a-d29f-4735-83a2-f03762340436"
+                webpartid2="d001c631-edb6-4264-8530-ed5710dcffe9" haspers="false"
+                id="WebPartWPQ3" width="100%"
+                allowminimize="false" allowremove="false"
+                allowdelete="false" style=""
+                class="smallFont"> <table
+                class="s4-wpTopTable" border="0"
+                cellpadding="0" cellspacing="0"
+                width="100%"> <tbody>
+                <tr> <td
+                valign="top"> <div
+                webpartid="0abee572-7de4-4853-8191-2f1f54761d09" webpartid2="52f68659-fb61-426f-b241-e1c359efc696"
+                haspers="false" id="WebPartWPQ2"
+                width="100%" allowminimize="false"
+                allowremove="false" allowdelete="false"
+                style="" class="smallFont">
+                <table width="100%"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"
+                xmlns: o="urn:schemas-microsoft-com:office:office">
+
+                <tbody> <tr>
+                <td> <iframe
+                src="javascript:false;" id="FilterIframe45"
+                name="FilterIframe45" style="display:none"
+                height="0" width="0"
+                filterlink="?"></iframe><table summary="Adult Abuse, Neglect &amp; Exploitation Finding Help - Subcategory "
+                o: webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;View={0ABEE572-7DE4-4853-8191-2F1F54761D09}"
+                width="100%" border="0"
+                cellspacing="0" dir="none"
+                onmouseover="                                                EnsureSelectionHandler(event, this, 45)" cellpadding="1"
+                id="{8BED2AAC-B1AC-424D-B341-DE0599DAE7CE}-{0ABEE572-7DE4-4853-8191-2F1F54761D09}" class="ms-listviewtable"
+                handledeleteinit="true"> <tbody><tr
+                valign="top" class="ms-viewheadertr ms-vhltr"><th
+                nowrap="" scope="col"
+                onmouseover="                                                OnChildColumn(this)" class="ms-vh2"><div
+                sortable="" sortdisable=""
+                filterdisable="" filterable="FALSE"
+                filterdisablemessage="" name="URLNoMenu"
+                ctxnum="45" displayname="URL"
+                fieldtype="Computed" resulttype=""
+                sortfields="View={0abee572-7de4-4853-8191-2f1f54761d09}&amp;SortField=URLNoMenu&amp;SortDir=Asc" class="ms-vh-div smallFont"><a
+                id="diidSortURLNoMenu" onfocus="                                                OnFocusFilter(this)"
+                href="javascript:" onclick="                                                javascript: return OnClickFilter(this, event);"
+                sortingfields="View={0abee572-7de4-4853-8191-2f1f54761d09}&amp;SortField=URLNoMenu&amp;SortDir=Asc">URL<img src="/_layouts/images/blank.gif"
+                class="ms-hidden" border="0"
+                width="1" height="1"
+                alt="Use SHIFT+ENTER to open the menu (new window)."></a><img src="/_layouts/images/blank.gif"
+                alt="" border="0"><img
+                src="/_layouts/images/blank.gif" border="0"
+                alt=""></div><div class="s4-ctx smallFont"><span>&nbsp;</span><a
+                onfocus="                                                OnChildColumn(this.parentNode.parentNode); return false;" onclick="                                                PopMenuFromChevron(event); return false;"
+                href="javascript:;" title="Open Menu"></a><span>&nbsp;</span></div></th></tr><input
+                type="hidden" id="GroupByColFlag"><input
+                type="hidden" id="GroupByWebPartID45"
+                webpartid="{0ABEE572-7DE4-4853-8191-2F1F54761D09}"></tbody> <tbody
+                id="GroupByCol{0ABEE572-7DE4-4853-8191-2F1F54761D09}"><tr id="GroupByCol45"
+                querystring="?"></tr></tbody> <tbody
+                id="titl45-1_" groupstring="%3B%23Added%20New%20Subcategory%3B%23">
+                <tr id="group0">
+                <td colspan="100"
+                nowrap="" class="ms-gb">
+                <a href="javascript:"
+                onclick="                                                javascript: ExpCollGroup(45-1_, img_45-1_, event, false); return false;"><img src="/_layouts/images/minus.gif"
+                border="0" alt="collapse"
+                id="img_45-1_">&nbsp;Subcategory</a>: Added
+                New Subcategory<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;"> &nbsp;‎(1)
+                </span> </td>
+                </tr> </tbody>
+                <tbody id="tbod45-1__"
+                isloaded="true"></tbody> <tbody><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://yahoo.com">Test
+                purpose</a></td></tr></tbody> <tbody
+                id="titl45-2_" groupstring="%3B%23Adult%20Abuse%3A%20Recognizing%20the%20Signs%3B%23">
+                <tr id="group0">
+                <td colspan="100"
+                nowrap="" class="ms-gb">
+                <a href="javascript:"
+                onclick="javascript:ExpCollGroup(45-2_, img_45-2_,event, false);return false;"><img src="/_layouts/images/minus.gif"
+                border="0" alt="collapse"
+                id="img_45-2_">&nbsp;Subcategory</a>: Adult
+                Abuse: Recognizing
+                the Signs<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;"> &nbsp;‎(6)
+                </span> </td>
+                </tr> </tbody>
+                <tbody id="tbod45-2__"
+                isloaded="true"></tbody> <tbody><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.familyvillage.wisc.edu/general/abuse.html">Abuse
+                &amp; Disability</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="/KnowledgeCenter/DV_disabilites.pdf">Domestic
+                Violence and
+                Disability</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.ncea.aoa.gov/NCEAroot/Main_site/FAQ/Questions.aspx">Elder Abuse
+                Frequently Asked
+                Questions</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.ncea.aoa.gov/NCEAroot/Main_Site/pdf/family/caregiver.pdf">Preventing Elder
+                Abuse by
+                Caregivers</a></td></tr><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://assistedlivingway.com/w/safety/">Resources and
+                Informative Tips
+                on Senior
+                Safety and
+                Living</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://yahoo.com">test for
+                knowledge Center</a></td></tr></tbody>
+                <tbody id="titl45-3_"
+                groupstring="%3B%23Adult%20Protective%20Services%20in%20New%20Mexico%3B%23"> <tr
+                id="group0"> <td
+                colspan="100" nowrap=""
+                class="ms-gb"> <a
+                href="javascript:" onclick="javascript:ExpCollGroup(45-3_, img_45-3_,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_45-3_">&nbsp;Subcategory</a>
+                : Adult
+                Protective Services
+                in New
+                Mexico<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">
+                &nbsp;‎(2) </span>
+                </td> </tr>
+                </tbody> <tbody
+                id="tbod45-3__" isloaded="true"></tbody>
+                <tbody><tr class="ms-alternating"><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/Adult_Protective_Services_Division.html">NM Adult
+                Protective Services</a></td></tr><tr
+                class=""><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.rainn.org/pdf-files-and-other-documents/Public-Policy/Legal-resources/2009-Mandatory-Report/NewMexico09E.pdf">NM
+                Adult Protective
+                Services Statute</a></td></tr></tbody>
+                <tbody id="titl45-4_"
+                groupstring="%3B%23Exploitation%2C%20Abuse%20%26%20Neglect%20in%20Care%20Facilities%3B%23"> <tr
+                id="group0"> <td
+                colspan="100" nowrap=""
+                class="ms-gb"> <a
+                href="javascript:" onclick="javascript:ExpCollGroup(45-4_, img_45-4_,event, false);return false;"><img
+                src="/_layouts/images/minus.gif" border="0"
+                alt="collapse" id="img_45-4_">&nbsp;Subcategory</a>
+                : Exploitation,
+                Abuse &amp;
+                Neglect in
+                Care Facilities<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;"> &nbsp;‎(3)
+                </span> </td>
+                </tr> </tbody>
+                <tbody id="tbod45-4__"
+                isloaded="true"></tbody> <tbody><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://www.ncea.aoa.gov/NCEAroot/Main_Site/FAQ/Nursing_Home_Abuse/Prevent_Abuse.aspx">Abuse,
+                Neglect &amp;
+                Exploitation in
+                Facilities</a></td></tr><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://www.nmaging.state.nm.us/Ombudsman_bureau.html">New Mexico
+                State Long-Term
+                Care Ombudsman</a></td></tr><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="/KnowledgeCenter/resident_rights_flyer.pdf">Resident
+                Rights</a></td></tr></tbody> <tbody
+                id="titl45-5_" groupstring="%3B%23Manage%20Users%3B%23">
+                <tr id="group0">
+                <td colspan="100"
+                nowrap="" class="ms-gb">
+                <a href="javascript:"
+                onclick="javascript:ExpCollGroup(45-5_, img_45-5_,event, false);return false;"><img src="/_layouts/images/minus.gif"
+                border="0" alt="collapse"
+                id="img_45-5_">&nbsp;Subcategory</a>: Manage
+                Users<span style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;">
+                &nbsp;‎(1) </span>
+                </td> </tr>
+                </tbody> <tbody
+                id="tbod45-5__" isloaded="true"></tbody>
+                <tbody><tr class=""><td
+                class="ms-vb2"><a onfocus="OnLink(this)"
+                href="http://yahoo.com">Test of
+                yahoo</a></td></tr></tbody> <tbody
+                id="titl45-6_" groupstring="%3B%23Test%3B%23">
+                <tr id="group0">
+                <td colspan="100"
+                nowrap="" class="ms-gb">
+                <a href="javascript:"
+                onclick="javascript:ExpCollGroup(45-6_, img_45-6_,event, false);return false;"><img src="/_layouts/images/minus.gif"
+                border="0" alt="collapse"
+                id="img_45-6_">&nbsp;Subcategory</a>: Test<span
+                style="font-weight: lighter; unicode-bidi: bidi-override; display: inline-block;"> &nbsp;‎(1)
+                </span> </td>
+                </tr> </tbody>
+                <tbody id="tbod45-6__"
+                isloaded="true"></tbody> <tbody><tr
+                class="ms-alternating"><td class="ms-vb2"><a
+                onfocus="OnLink(this)" href="http://google.com">http
+                : //google.com</a></td></tr></tbody>
+                </table>
+                <script type="text/javascript">HideListViewRows("{8BED2AAC-B1AC-424D-B341-DE0599DAE7CE}-{0ABEE572-7DE4-4853-8191-2F1F54761D09}");</script>
+                </td> </tr>
+                </tbody> </table>
+                </div> </td>
+                </tr> </tbody>
+                </table> </div>
+                </td> </tr>
+                </tbody> </table>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,239 @@
+﻿{
+    "g": {
+        "Oid": 2079,
+        "Name": "V2 Solutions Pvt. Ltd.",
+        "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
+        "Title": "V2 Solutions Pvt. Ltd.",
+        "IsActive": true,
+        "Menu": [
+            {
+                "Name": "Home",
+                "Value": "2079"
+            },
+            {
+                "Name": "About  Us",
+                "Value": "2080"
+
+            },
+            {
+                "Name": "Page3",
+                "Value": "2081"
+            }
+        ]
+    },
+    "f": [
+        {
+            "Oid": 65,
+            "Site": 2079,
+            "Name": "Home",
+            "URL": "Home",
+            "Logo": "9g==",
+            "Title": "Home",
+            "IsActive": true,
+            "IsDefault": true,
+            "IsAuth": true,
+            "IsMenu": true
+        }
+    ],
+    "s": {
+        "Orientation": [
+            {
+                "Type": "Percentage",
+                "Order": [ 100 ]
+            }
+        ],
+        "isCacheble": true,
+        "Data": [
+            {
+                "Type": "Static",
+                "Oid": 1035,
+                "Views": 65,
+                "Name": "Welcome",
+                "Descr": '
+                <div class="ms-rte-layoutszone-inner smallFont"
+                role="textbox" aria-autocomplete="both"
+                aria-haspopup="true" aria-multiline="true"><div
+                class="title clearfix smallFont"><h1>Emergency Preparedness
+                &amp; Response</h1></div>
+                <br> <div
+                class="ms-rtestate-read ms-rte-wpbox smallFont"><div class="ms-rtestate-read d993adf3-3879-4874-bb5b-d0674c769b36 smallFont"
+                id="div_d993adf3-3879-4874-bb5b-d0674c769b36"><table style="width:100%"
+                cellpadding="0" cellspacing="0"><tbody><tr><td
+                id="MSOZoneCell_WebPartWPQ2" webpartwpq2_relatedlistid="{4aa407f6-a53d-46fa-b181-b7f87f27f620}"
+                webpartwpq2_webpartstoragekey="0361584a-a47e-43de-a025-3e98779923ee" valign="top"
+                class="s4-wpcell" onkeyup="WpKeyUp(event)"
+                onmouseup="WpClick(event)"><table class="s4-wpTopTable"
+                border="0" cellpadding="0"
+                cellspacing="0" width="100%">
+                <tbody><tr> <td
+                valign="top"><div webpartid="0361584a-a47e-43de-a025-3e98779923ee"
+                webpartid2="d993adf3-3879-4874-bb5b-d0674c769b36" haspers="false"
+                id="WebPartWPQ2" width="100%"
+                allowremove="false" allowdelete="false"
+                style="" class="smallFont"><table
+                width="100%" cellpadding="0"
+                cellspacing="0" border="0"
+                xmlns: x="http://www.w3.org/2001/XMLSchema"
+                xmlns: d="http://schemas.microsoft.com/sharepoint/dsp"
+                xmlns: asp="http://schemas.microsoft.com/ASPNET/20"
+                xmlns: __designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer"
+                xmlns: sharepoint="Microsoft.SharePoint.WebControls"
+                xmlns: ddwrt2="urn:frontpage:internal"><script
+                type="text/javascript"> ctx
+                = new
+                ContextInfo(); var
+                existingHash =
+                \u0027\u0027; if(window.location.href.indexOf("#")
+                > -1)
+                {
+                    existingHash =
+                    window.location.href.substr(window.location.href.indexOf("#"));
+                }
+                ctx.existingServerFilterHash =
+                existingHash; if
+                (ctx.existingServerFilterHash.indexOf("ServerFilter=") ==
+                1) {
+                    ctx.existingServerFilterHash =
+                    ctx.existingServerFilterHash.replace(/-/g,
+                    \u0027&\u0027).replace(/&&/g,
+                    \u0027-\u0027); var
+                    serverFilterRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true,
+                    ctx.existingServerFilterHash); var
+                    currentRootFolder =
+                    GetUrlKeyValue("RootFolder",
+                    true); if(""
+                    == serverFilterRootFolder
+                    && ""
+                    != currentRootFolder)
+                    {
+                        ctx.existingServerFilterHash +=
+                        "&RootFolder=" +
+                        currentRootFolder;
+                    }
+                    window.location.hash =
+                    \u0027\u0027; window.location.search
+                    = \u0027?\u0027
+                    + ctx.existingServerFilterHash.substr("ServerFilter=".length
+                    + 1);
+                }
+
+                ctx.listBaseType =
+                0; ctx.NavigateForFormsPages
+                = false;
+                ctx.listTemplate =
+                "103"; ctx.listName
+                = "{4AA407F6-A53D-46FA-B181-B7F87F27F620}";
+                ctx.view =
+                "{0361584A-A47E-43DE-A025-3E98779923EE}"; ctx.listUrlDir
+                = "/Lists/Emergency%20Preparedness%20%20Response%20%20Links";
+                ctx.HttpPath =
+                "https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001"; ctx.HttpRoot
+                = "https://wrcstaging.harmonyis.net";
+                ctx.imagesPath =
+                "/_layouts/images/"; ctx.PortalUrl
+                = "";
+                ctx.SendToLocationName =
+                ""; ctx.SendToLocationUrl
+                = "";
+
+                ctx.RecycleBinEnabled =
+                1; ctx.OfficialFileName
+                = "";
+                ctx.OfficialFileNames =
+                ""; ctx.WriteSecurity
+                = "";
+                ctx.SiteTitle =
+                ""; ctx.ListTitle
+                = "Emergency Preparedness \u0026 Response - Main";
+                if (ctx.PortalUrl
+                == "")
+                ctx.PortalUrl =
+                null; ctx.displayFormUrl
+                = "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=4&ListId={4AA407F6-A53D-46FA-B181-B7F87F27F620}";
+                ctx.editFormUrl =
+                "https://wrcstaging.harmonyis.net/_layouts/listform.aspx?PageType=6&ListId={4AA407F6-A53D-46FA-B181-B7F87F27F620}"; ctx.isWebEditorPreview
+                = 0;
+                ctx.ctxId =
+                91; ctx.isXslView
+                = true;
+
+                if (g_ViewIdToViewCounterMap
+                [ "{0361584A-A47E-43DE-A025-3E98779923EE}" ]
+                == null)
+                g_ViewIdToViewCounterMap [ "{0361584A-A47E-43DE-A025-3E98779923EE}" ]
+                = 91;
+                ctx.CurrentUserId =
+                -1; ctx91
+                = ctx;
+                g_ctxDict [ \u0027ctx91\u0027 ]
+                = ctx;
+                </script><tbody><tr><td><table id="{4AA407F6-A53D-46FA-B181-B7F87F27F620}-{0361584A-A47E-43DE-A025-3E98779923EE}"
+                summary="Emergency Preparedness &amp; Response - Main " o
+                : webquerysourcehref="https://wrcstaging.harmonyis.net/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;List={4AA407F6-A53D-46FA-B181-B7F87F27F620}&amp;View={0361584A-A47E-43DE-A025-3E98779923EE}"
+                class="ms-summarycustombody" style="margin-bottom: 5px;"
+                cellspacing="0" cellpadding="0"
+                border="0" xmlns
+                : o="urn:schemas-microsoft-com:office:office"><tbody><tr><td
+                style="padding-bottom: 5px" class="ms-vb"></td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://assistedlivingway.com/w/safety/">Resources
+                and Informative
+                Tips on
+                Senior Safety
+                and Living</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"></td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.ready.gov/">Ready.gov
+                - Emergency
+                Preparedness</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"></td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.fema.gov/plan/prepare/specialplans.shtm">Preparing and
+                Planning for
+                Individuals with
+                Special Needs</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"></td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.nmdhsem.org/">NM
+                Department of
+                Homeland Security
+                and Emergency
+                Management</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"></td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.hud.gov/local/index.cfm?state=nm&amp;topic=homeless">Homeless Information</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"></td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.disasterassistance.gov/daip_en.portal">Disaster
+                Assistance and
+                Info</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"></td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.bt.cdc.gov/">CDC Emergency
+                Preparedness and
+                Response</a></td></tr><tr><td style="padding-bottom: 5px"
+                class="ms-vb"></td><td style="padding-bottom: 5px;padding-left: 5px;"
+                class="ms-vb"><a onfocus="OnLink(this)"
+                href="http://www.disabilitypreparedness.gov/">Disability Preparedness
+                Resource Center</a></td></tr><tr><td
+                style="padding-bottom: 5px" class="ms-vb"></td><td
+                style="padding-bottom: 5px;padding-left: 5px;" class="ms-vb"><a
+                onfocus="OnLink(this)" href="http://www.disability.gov/emergency_preparedness/preparedness_tools_%26_resources">Emergency
+                Tools and
+                Resources</a></td></tr></tbody></table></td></tr></tbody></table></div></td> </tr>
+                </tbody></table></td></tr></tbody></table></div><div style="display:none"
+                id="vid_d993adf3-3879-4874-bb5b-d0674c769b36" class="smallFont"></div></div>
+
+
+
+
+                </div>',
+                "IsActive": true,
+                " Sequence ": null
+            }
+        ]
+    }
+}
