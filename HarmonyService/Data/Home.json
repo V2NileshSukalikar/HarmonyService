@@ -3,7 +3,7 @@
         "Oid": 2079,
         "Name": "V2 Solutions Pvt. Ltd.",
         "url": "http://www.vcsdata.com/website.html?webinfo=V2-Tech-Ventures-Pvt-Ltd",
-        "Logo": "http://localhost:53142/Images/harmony-trans-bkg-green.png",
+        "Logo": "http://harmonyservice/Images/harmony-trans-bkg-green.png",
         "Title": "wrcstaging.harmonyis.net",
         "IsActive": true,
         "Menu": [
@@ -57,7 +57,7 @@
             }
 
         ],
-        "isCacheble": true,
+        "isCacheble": false,
         "Data": [
             {
                 "Type": "Static",
