@@ -274,7 +274,7 @@
     <Content Include="Data\KnowledgeCenter.json" />
     <Content Include="Data\HowToUseSite.json" />
     <Content Include="Data\SubPages\WhatsNewPage.json" />
-    <Content Include="Data\SubPages\Adult Abuse.json" />
+    <Content Include="Data\SubPages\AdultAbuse.json" />
     <Content Include="Data\SubPages\Healthcare.json" />
     <Content Include="Data\SubPages\Home.json" />
     <Content Include="Data\SubPages\Information.json" />

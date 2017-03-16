@@ -17,8 +17,12 @@
 
             },
             {
-                "Name": "Page3",
+                "Name": "Knowledge Center",
                 "Value": "2081"
+            },
+            {
+                "Name": "How To Use Site",
+                "Value": "2082"
             }
         ]
     },

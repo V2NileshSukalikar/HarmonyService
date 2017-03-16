@@ -14,6 +14,8 @@ namespace HarmonyService.Controllers
 {
     public class CMSDataController : ApiController
     {
+        #region Controllers
+
         public HttpResponseMessage GetCMSJsonData(string pagename, bool isheader)
         {
             int pageID = 1;
@@ -21,8 +23,7 @@ namespace HarmonyService.Controllers
             {
 
             }
-            //get the Json filepath  
-            string fileName = pageID == 2079 ? "~/Data/Home.json" : pageID == 2080 ? "~/Data/AboutUs.json" : "~/Data/HowToUseSite.json";
+            string fileName = GetThePageById(pageID);
 
             string file = System.Web.HttpContext.Current.Server.MapPath(fileName);
             //deserialize JSON from file  
@@ -71,22 +72,84 @@ namespace HarmonyService.Controllers
             return Request.CreateResponse(HttpStatusCode.OK, searchData);
         }
 
-        // POST api/<controller>
-        public void Post([FromBody]string value)
+        #endregion
+
+        #region Methods
+
+        private static string GetThePageById(int pageID)
         {
+            //get the Json filepath  
+            string fileName = "~/Data/Home.json";
+            switch (pageID)
+            {
+                case 1:
+                    fileName = "~/Data/SubPages/WhatsNewPage.json";
+                    break;
+                case 2:
+                    fileName = "~/Data/SubPages/AdultAbuse.json";
+                    break;
+                case 3:
+                    fileName = "~/Data/SubPages/Alzheimer.json";
+                    break;
+                case 4:
+                    fileName = "~/Data/SubPages/Behavioral.json";
+                    break;
+                case 5:
+                    fileName = "~/Data/SubPages/Emergency.json";
+                    break;
+                case 6:
+                    fileName = "~/Data/SubPages/Everyday.json";
+                    break;
+                case 7:
+                    fileName = "~/Data/SubPages/Financial.json";
+                    break;
+                case 8:
+                    fileName = "~/Data/SubPages/Healthcare.json";
+                    break;
+                case 9:
+                    fileName = "~/Data/SubPages/Home.json";
+                    break;
+                case 10:
+                    fileName = "~/Data/SubPages/Information.json";
+                    break;
+                case 11:
+                    fileName = "~/Data/SubPages/Intellectual.json";
+                    break;
+                case 12:
+                    fileName = "~/Data/SubPages/Legal.json";
+                    break;
+                case 13:
+                    fileName = "~/Data/SubPages/Senior.json";
+                    break;
+                case 14:
+                    fileName = "~/Data/SubPages/Support.json";
+                    break;
+                case 15:
+                    fileName = "~/Data/SubPages/Veterans.json";
+                    break;
+                case 16:
+                    fileName = "~/Data/SubPages/WhatsNewPage.json";
+                    break;
+                case 2079:
+                    fileName = "~/Data/Home.json";
+                    break;
+                case 2080:
+                    fileName = "~/Data/AboutUs.json";
+                    break;
+                case 2081:
+                    fileName = "~/Data/KnowledgeCenter.json";
+                    break;
+                case 2082:
+                    fileName = "~/Data/HowToUseSite.json";
+                    break;
+                default:
+                    fileName = "~/Data/Home.json";
+                    break;
+            }
+            return fileName;
         }
 
-        // PUT api/<controller>/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/<controller>/5
-        public void Delete(int id)
-        {
-        }
-
-
+        #endregion
 
     }
 }
