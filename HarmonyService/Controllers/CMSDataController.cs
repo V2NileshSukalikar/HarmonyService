@@ -30,6 +30,10 @@ namespace HarmonyService.Controllers
             string Json = System.IO.File.ReadAllText(file);
             JavaScriptSerializer ser = new JavaScriptSerializer();
             var siteData = ser.Deserialize<SiteDataBO>(Json);
+            if (!isheader)
+            {
+                siteData.g = null;
+            }
             return Request.CreateResponse(HttpStatusCode.OK, siteData);
         }
 
